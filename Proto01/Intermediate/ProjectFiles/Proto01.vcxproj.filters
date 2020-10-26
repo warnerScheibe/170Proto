@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Proto01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DE95819E-9A95-467A-A525-C9F9E94510C1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Proto01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Proto01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{613390BD-DD75-4889-A4E3-93D6A7A348AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Proto01">
+      <UniqueIdentifier>{8301F559-B055-4BFE-BD48-A800338B0AAE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Proto01\Proto01.Build.cs">
+      <Filter>Source\Proto01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Proto01\Proto01.cpp">
+      <Filter>Source\Proto01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Proto01\Proto01.h">
+      <Filter>Source\Proto01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Proto01\Proto01Character.cpp">
+      <Filter>Source\Proto01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Proto01\Proto01Character.h">
+      <Filter>Source\Proto01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Proto01\Proto01GameMode.cpp">
+      <Filter>Source\Proto01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Proto01\Proto01GameMode.h">
+      <Filter>Source\Proto01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Proto01\Proto01HUD.cpp">
+      <Filter>Source\Proto01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Proto01\Proto01HUD.h">
+      <Filter>Source\Proto01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Proto01\Proto01Projectile.cpp">
+      <Filter>Source\Proto01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Proto01\Proto01Projectile.h">
+      <Filter>Source\Proto01</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

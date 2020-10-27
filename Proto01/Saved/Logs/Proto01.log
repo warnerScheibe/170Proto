@@ -2191,3 +2191,357 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-07.31.52:407][414]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/roadProtoFB0F3C124A235A1CA2C851A88BCE2D07.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
 [2020.10.27-07.31.52:553][414]AssetCheck: New page: Asset Save: roadProto
 [2020.10.27-07.31.52:553][414]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-07.32.26:621][922]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2020.10.27-07.32.26:696][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.10.27-07.32.29:320][922]LogSlate: Window 'Save Content' being destroyed
+[2020.10.27-07.32.29:348][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/black" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/black.uasset" SILENT=true
+[2020.10.27-07.32.29:360][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/blackA7212069426E0081F20E6D846B2ADE0C.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/black.uasset'
+[2020.10.27-07.32.29:370][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube.uasset" SILENT=true
+[2020.10.27-07.32.29:381][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube1773A109431BD5577667618151328821.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube.uasset'
+[2020.10.27-07.32.29:390][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_001" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_001.uasset" SILENT=true
+[2020.10.27-07.32.29:401][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_001A65B61B54AC9FA4219D16A9134005622.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_001.uasset'
+[2020.10.27-07.32.29:410][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_002" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_002.uasset" SILENT=true
+[2020.10.27-07.32.29:420][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_002C3A8124D43509A403BE8FBB339B6A470.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_002.uasset'
+[2020.10.27-07.32.29:430][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_003" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_003.uasset" SILENT=true
+[2020.10.27-07.32.29:440][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_003B8180B474B9159FF666EC99FA69831EA.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_003.uasset'
+[2020.10.27-07.32.29:450][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_004" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_004.uasset" SILENT=true
+[2020.10.27-07.32.29:460][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0045A0539844A26653BF251358994F16BF9.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_004.uasset'
+[2020.10.27-07.32.29:470][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_005" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_005.uasset" SILENT=true
+[2020.10.27-07.32.29:479][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_005F3CA20434C978BFBBFA213B8BCB1F336.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_005.uasset'
+[2020.10.27-07.32.29:490][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_006" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_006.uasset" SILENT=true
+[2020.10.27-07.32.29:500][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_006F916E33C4DADE44D652A0785CA0A76C0.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_006.uasset'
+[2020.10.27-07.32.29:510][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_007" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_007.uasset" SILENT=true
+[2020.10.27-07.32.29:665][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_007ED2C27B7451C71538B290BB178FA7767.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_007.uasset'
+[2020.10.27-07.32.29:675][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_008" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_008.uasset" SILENT=true
+[2020.10.27-07.32.29:685][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_008636E9346409697BC974854A2E6D3F75B.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_008.uasset'
+[2020.10.27-07.32.29:694][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_009" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_009.uasset" SILENT=true
+[2020.10.27-07.32.29:703][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0099AB654BF4B566FF0DB1D01B3838648EB.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_009.uasset'
+[2020.10.27-07.32.29:712][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_010" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_010.uasset" SILENT=true
+[2020.10.27-07.32.29:722][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_010731EE2914C33963599EFADA89866B538.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_010.uasset'
+[2020.10.27-07.32.29:731][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_011" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_011.uasset" SILENT=true
+[2020.10.27-07.32.29:741][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_01174D64FE14F4259312292BDB721DA8E37.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_011.uasset'
+[2020.10.27-07.32.29:750][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_012" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_012.uasset" SILENT=true
+[2020.10.27-07.32.29:761][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0124C17A53D41FDE416720AEF97C1AD48EB.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_012.uasset'
+[2020.10.27-07.32.29:771][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_013" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_013.uasset" SILENT=true
+[2020.10.27-07.32.29:781][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_01338C627B649D3A09459AF28A520A927D8.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_013.uasset'
+[2020.10.27-07.32.29:791][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_014" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_014.uasset" SILENT=true
+[2020.10.27-07.32.29:800][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_01435FF1E6842616F8B5B6CD1819CB11262.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_014.uasset'
+[2020.10.27-07.32.29:810][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_015" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_015.uasset" SILENT=true
+[2020.10.27-07.32.29:904][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_015815473F345BEC2E9D3E1FD8085D3A390.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_015.uasset'
+[2020.10.27-07.32.29:927][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_016" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_016.uasset" SILENT=true
+[2020.10.27-07.32.29:950][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0165EBC6DF8417A4AD1B25D6FBCFD1C293D.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_016.uasset'
+[2020.10.27-07.32.29:975][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_017" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_017.uasset" SILENT=true
+[2020.10.27-07.32.29:998][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_017924BB61D41334BB5FE7E9DB14F309D7F.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_017.uasset'
+[2020.10.27-07.32.30:020][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_018" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_018.uasset" SILENT=true
+[2020.10.27-07.32.30:035][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_018441349D546C762E5A36B83B577A8D8A8.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_018.uasset'
+[2020.10.27-07.32.30:052][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_019" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_019.uasset" SILENT=true
+[2020.10.27-07.32.30:070][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0190909B0744101F8889D962AA484948226.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_019.uasset'
+[2020.10.27-07.32.30:083][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_020" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_020.uasset" SILENT=true
+[2020.10.27-07.32.30:094][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_020C1A1D6F8462018625D22FF803D0591C2.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_020.uasset'
+[2020.10.27-07.32.30:104][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_021" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_021.uasset" SILENT=true
+[2020.10.27-07.32.30:114][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0212B0FF4BC4A9CC55A17E4B3888DEBCB64.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_021.uasset'
+[2020.10.27-07.32.30:122][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_022" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_022.uasset" SILENT=true
+[2020.10.27-07.32.30:132][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_022449A26D245934AA7FC895DA0429D80F3.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_022.uasset'
+[2020.10.27-07.32.30:142][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_023" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_023.uasset" SILENT=true
+[2020.10.27-07.32.30:152][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0232B00F52E4D662BBBF4F98485BAB80F27.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_023.uasset'
+[2020.10.27-07.32.30:162][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_024" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_024.uasset" SILENT=true
+[2020.10.27-07.32.30:271][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_024E94A6FCA423A713FF4BAACB9904FF358.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_024.uasset'
+[2020.10.27-07.32.30:281][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_025" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_025.uasset" SILENT=true
+[2020.10.27-07.32.30:291][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0254EB92C9646D752B6EA0A0B858D9B5BF1.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_025.uasset'
+[2020.10.27-07.32.30:300][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_026" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_026.uasset" SILENT=true
+[2020.10.27-07.32.30:310][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0267A9A6D46427082580258ADA61746EA66.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_026.uasset'
+[2020.10.27-07.32.30:319][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_027" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_027.uasset" SILENT=true
+[2020.10.27-07.32.30:341][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_027F61C4BE548675C8DAAA275B93AE01E35.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_027.uasset'
+[2020.10.27-07.32.30:350][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_028" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_028.uasset" SILENT=true
+[2020.10.27-07.32.30:362][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_02854ED61FF44DB9DA61AFE62BE41E943A2.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_028.uasset'
+[2020.10.27-07.32.30:385][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_029" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_029.uasset" SILENT=true
+[2020.10.27-07.32.30:395][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0292B7F4908492F4340DF90B897B7F64B5A.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_029.uasset'
+[2020.10.27-07.32.30:406][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_030" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_030.uasset" SILENT=true
+[2020.10.27-07.32.30:416][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_030374BF9214A67CA2426D233933238A181.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_030.uasset'
+[2020.10.27-07.32.30:425][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_031" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_031.uasset" SILENT=true
+[2020.10.27-07.32.30:435][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0314B5F24B64917965CB755AD9114787F42.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_031.uasset'
+[2020.10.27-07.32.30:444][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_032" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_032.uasset" SILENT=true
+[2020.10.27-07.32.30:454][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_0327C4FD9E04B926832F73F5BA65777AAC9.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_032.uasset'
+[2020.10.27-07.32.30:467][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_033" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_033.uasset" SILENT=true
+[2020.10.27-07.32.30:482][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_03381DDDB87478B9CFA334358882C4C0279.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_033.uasset'
+[2020.10.27-07.32.30:503][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_034" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_034.uasset" SILENT=true
+[2020.10.27-07.32.30:519][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_034A1C7BB1B4B581316A1D4F58C342098A6.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_034.uasset'
+[2020.10.27-07.32.30:534][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cube_035" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_035.uasset" SILENT=true
+[2020.10.27-07.32.30:548][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cube_035373075F3433D3FF78912A099B36CE176.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cube_035.uasset'
+[2020.10.27-07.32.30:560][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder.uasset" SILENT=true
+[2020.10.27-07.32.30:572][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder63AD3D384F832FC7BC71F9A710A086E1.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder.uasset'
+[2020.10.27-07.32.30:582][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_001" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_001.uasset" SILENT=true
+[2020.10.27-07.32.30:597][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_00119DCC1F144810D6EFFD621B4D5CDE30C.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_001.uasset'
+[2020.10.27-07.32.30:608][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_002" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_002.uasset" SILENT=true
+[2020.10.27-07.32.30:620][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_002C9AA196149AEE03AAA3C60B23DC8375E.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_002.uasset'
+[2020.10.27-07.32.30:631][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_003" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_003.uasset" SILENT=true
+[2020.10.27-07.32.30:642][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_003C4263F4F4A04A0C5F6F7F7A7BEC5371C.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_003.uasset'
+[2020.10.27-07.32.30:661][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_004" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_004.uasset" SILENT=true
+[2020.10.27-07.32.30:672][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_004FF45F4CD4070181CCFAC96B5F4B57864.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_004.uasset'
+[2020.10.27-07.32.30:683][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_005" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_005.uasset" SILENT=true
+[2020.10.27-07.32.30:693][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_0053D3D032542D6753A3A6BE788AAA2D645.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_005.uasset'
+[2020.10.27-07.32.30:702][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_006" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_006.uasset" SILENT=true
+[2020.10.27-07.32.30:713][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_00699354D944CB9B5696337689545F1BFF9.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_006.uasset'
+[2020.10.27-07.32.30:722][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_007" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_007.uasset" SILENT=true
+[2020.10.27-07.32.30:732][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_007801EBAE447CAA091C77C2085D7303836.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_007.uasset'
+[2020.10.27-07.32.30:741][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Cylinder_008" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_008.uasset" SILENT=true
+[2020.10.27-07.32.30:750][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Cylinder_008BFD2EF19416FD2495D15ADAB26D67C34.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Cylinder_008.uasset'
+[2020.10.27-07.32.30:759][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Plane" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane.uasset" SILENT=true
+[2020.10.27-07.32.30:769][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_PlaneC7C2EBA640599649B85A72B5476872D2.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane.uasset'
+[2020.10.27-07.32.30:778][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Plane_000" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane_000.uasset" SILENT=true
+[2020.10.27-07.32.30:789][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Plane_00072B2D5424F3AD159178717BB37AD057C.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane_000.uasset'
+[2020.10.27-07.32.30:798][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Plane_001" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane_001.uasset" SILENT=true
+[2020.10.27-07.32.30:808][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Plane_0012E28114A4A6A31F55D6616B96BACD099.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane_001.uasset'
+[2020.10.27-07.32.30:817][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Plane_002" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane_002.uasset" SILENT=true
+[2020.10.27-07.32.30:826][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Plane_0023CC64A3C4DB220C0A83AF49BA59F3028.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Plane_002.uasset'
+[2020.10.27-07.32.30:835][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/car_Torus" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Torus.uasset" SILENT=true
+[2020.10.27-07.32.30:846][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/car_Torus74B402E240A6943EA0FEC5A44A7CDA34.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/car_Torus.uasset'
+[2020.10.27-07.32.30:855][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/house" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/house.uasset" SILENT=true
+[2020.10.27-07.32.30:892][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/house946A05BB46D5F0AAF9A87083B642A48E.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/house.uasset'
+[2020.10.27-07.32.30:915][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/leavesMate" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/leavesMate.uasset" SILENT=true
+[2020.10.27-07.32.30:925][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/leavesMate496609DC4069CFC504D644AAC159166A.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/leavesMate.uasset'
+[2020.10.27-07.32.30:933][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_001" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_001.uasset" SILENT=true
+[2020.10.27-07.32.30:942][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_001AB2069E9479FE835A1AFCF97450A4F0F.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_001.uasset'
+[2020.10.27-07.32.30:954][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_002" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_002.uasset" SILENT=true
+[2020.10.27-07.32.30:963][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0021C6E94074AA4C33B2894D781BA875A8E.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_002.uasset'
+[2020.10.27-07.32.30:973][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_003" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_003.uasset" SILENT=true
+[2020.10.27-07.32.30:981][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_003503D788E4A2362DF1AB227BCD237CC9F.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_003.uasset'
+[2020.10.27-07.32.30:992][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_004" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_004.uasset" SILENT=true
+[2020.10.27-07.32.31:001][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_00486CBA1714EDDEC361A6D1684F26B8016.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_004.uasset'
+[2020.10.27-07.32.31:011][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_005" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_005.uasset" SILENT=true
+[2020.10.27-07.32.31:019][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_005D79F9C1244BB87C8DE6AD4B12BDD9348.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_005.uasset'
+[2020.10.27-07.32.31:030][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_006" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_006.uasset" SILENT=true
+[2020.10.27-07.32.31:039][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0067ACFD7474818C6A271D6C780554FB406.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_006.uasset'
+[2020.10.27-07.32.31:048][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_007" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_007.uasset" SILENT=true
+[2020.10.27-07.32.31:575][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_00791D591AE4FB4BEF9EA5A29AE0AD08368.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_007.uasset'
+[2020.10.27-07.32.31:593][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_008" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_008.uasset" SILENT=true
+[2020.10.27-07.32.31:610][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_008B2C35C2544EF5627308189B13B56FF5F.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_008.uasset'
+[2020.10.27-07.32.31:619][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_009" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_009.uasset" SILENT=true
+[2020.10.27-07.32.31:628][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_00952879BA345EB988D488F639B50F48CA3.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_009.uasset'
+[2020.10.27-07.32.31:638][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_010" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_010.uasset" SILENT=true
+[2020.10.27-07.32.31:647][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_010F4780B434C5E8B967E21D9902E7B7551.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_010.uasset'
+[2020.10.27-07.32.31:655][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_011" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_011.uasset" SILENT=true
+[2020.10.27-07.32.31:664][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_01151F3B17B4B9809181BD04481D950A9AD.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_011.uasset'
+[2020.10.27-07.32.31:673][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_012" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_012.uasset" SILENT=true
+[2020.10.27-07.32.31:691][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_012065A20104F34655B1C9A089D583E6900.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_012.uasset'
+[2020.10.27-07.32.31:700][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_013" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_013.uasset" SILENT=true
+[2020.10.27-07.32.31:710][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_013E0B105B749618EF3B4B5EDBF407B102F.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_013.uasset'
+[2020.10.27-07.32.31:719][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_014" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_014.uasset" SILENT=true
+[2020.10.27-07.32.31:729][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_01436DFEC434236963C308693AE151309E5.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_014.uasset'
+[2020.10.27-07.32.31:737][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_015" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_015.uasset" SILENT=true
+[2020.10.27-07.32.31:747][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0157A70BAC34E82BBA076463BAF613C239C.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_015.uasset'
+[2020.10.27-07.32.31:756][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_016" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_016.uasset" SILENT=true
+[2020.10.27-07.32.31:764][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0167CD078C54942FD44C59C67B847AFB767.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_016.uasset'
+[2020.10.27-07.32.31:774][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_017" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_017.uasset" SILENT=true
+[2020.10.27-07.32.31:783][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_017EECAD02D4E0C4E332FD557ADD80F7E6D.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_017.uasset'
+[2020.10.27-07.32.31:792][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_018" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_018.uasset" SILENT=true
+[2020.10.27-07.32.31:801][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_018C0F675AB4F36A9EF435E209FF5D58464.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_018.uasset'
+[2020.10.27-07.32.31:810][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_019" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_019.uasset" SILENT=true
+[2020.10.27-07.32.31:819][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_019BA21EEEB41D4886C0E06ACB545345F34.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_019.uasset'
+[2020.10.27-07.32.31:827][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_020" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_020.uasset" SILENT=true
+[2020.10.27-07.32.31:837][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_020785D8AAF47609E1222E1A2B0B714555E.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_020.uasset'
+[2020.10.27-07.32.31:845][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_021" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_021.uasset" SILENT=true
+[2020.10.27-07.32.31:854][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_021C55C8C1A4E7AEFEE9BC207BA4650DC6F.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_021.uasset'
+[2020.10.27-07.32.31:862][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_022" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_022.uasset" SILENT=true
+[2020.10.27-07.32.31:871][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_022055893714CBCF62A91E28B8E4D6AA3E9.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_022.uasset'
+[2020.10.27-07.32.31:879][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_023" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_023.uasset" SILENT=true
+[2020.10.27-07.32.31:889][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_023914DE2754BB5E8317547159D3498DCD9.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_023.uasset'
+[2020.10.27-07.32.31:898][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_024" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_024.uasset" SILENT=true
+[2020.10.27-07.32.31:907][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_024CCFBBEAF4859421F23C0C3B9913B6ED5.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_024.uasset'
+[2020.10.27-07.32.31:917][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_025" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_025.uasset" SILENT=true
+[2020.10.27-07.32.31:965][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_02548FA7C214651A49424CD67B42D7EA8D3.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_025.uasset'
+[2020.10.27-07.32.31:974][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_026" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_026.uasset" SILENT=true
+[2020.10.27-07.32.31:983][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0269F8F47B14BDDC0E3AB4C7887C74CB6F3.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_026.uasset'
+[2020.10.27-07.32.31:992][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_027" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_027.uasset" SILENT=true
+[2020.10.27-07.32.32:002][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_02774EE178F49BAB8223C2FE293C00C3933.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_027.uasset'
+[2020.10.27-07.32.32:019][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_028" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_028.uasset" SILENT=true
+[2020.10.27-07.32.32:031][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_028101DD0F04D1881BB6776CF8FB6122E6A.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_028.uasset'
+[2020.10.27-07.32.32:040][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_029" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_029.uasset" SILENT=true
+[2020.10.27-07.32.32:048][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0298E5FDFCC49781302E3FA8BB95D3FF93D.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_029.uasset'
+[2020.10.27-07.32.32:057][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_030" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_030.uasset" SILENT=true
+[2020.10.27-07.32.32:066][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_030791DCE6742398C6CFA37B08D780AB9A5.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_030.uasset'
+[2020.10.27-07.32.32:075][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_031" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_031.uasset" SILENT=true
+[2020.10.27-07.32.32:085][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_031A2640D1D4A569D139111A1BD7F12DB6E.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_031.uasset'
+[2020.10.27-07.32.32:093][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_032" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_032.uasset" SILENT=true
+[2020.10.27-07.32.32:103][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0324F71FB71407F55697BB09E9042CDABAC.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_032.uasset'
+[2020.10.27-07.32.32:112][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_033" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_033.uasset" SILENT=true
+[2020.10.27-07.32.32:121][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_03363A2FC0947232F9CEC838396A006F0F3.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_033.uasset'
+[2020.10.27-07.32.32:129][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_034" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_034.uasset" SILENT=true
+[2020.10.27-07.32.32:139][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0349DC534AF48257479E76F99A6256AC6C2.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_034.uasset'
+[2020.10.27-07.32.32:148][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_035" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_035.uasset" SILENT=true
+[2020.10.27-07.32.32:157][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0359C68DBDF415F0B779FE253B3E66EFCDB.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_035.uasset'
+[2020.10.27-07.32.32:166][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_036" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_036.uasset" SILENT=true
+[2020.10.27-07.32.32:176][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_036912589D24FD6554889E814B957D55A63.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_036.uasset'
+[2020.10.27-07.32.32:210][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_037" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_037.uasset" SILENT=true
+[2020.10.27-07.32.32:219][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_037EE8673B0462834006648C0BD0347AFBC.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_037.uasset'
+[2020.10.27-07.32.32:228][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_038" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_038.uasset" SILENT=true
+[2020.10.27-07.32.32:237][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0386B3E85BE473D7A9448E88E8722BF736B.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_038.uasset'
+[2020.10.27-07.32.32:245][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_039" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_039.uasset" SILENT=true
+[2020.10.27-07.32.32:254][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_039FBA0296143DABEFC063F27A86DDB5EF7.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_039.uasset'
+[2020.10.27-07.32.32:262][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_040" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_040.uasset" SILENT=true
+[2020.10.27-07.32.32:271][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_04054C356684B8F283EF60089B24D643F87.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_040.uasset'
+[2020.10.27-07.32.32:280][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_041" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_041.uasset" SILENT=true
+[2020.10.27-07.32.32:289][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_041ACC57AC345454736AF89D88A09A6532E.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_041.uasset'
+[2020.10.27-07.32.32:298][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_042" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_042.uasset" SILENT=true
+[2020.10.27-07.32.32:307][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0422898BA86461BCC849460CFAA79D1C812.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_042.uasset'
+[2020.10.27-07.32.32:316][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_043" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_043.uasset" SILENT=true
+[2020.10.27-07.32.32:324][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_04366F603DE4AB6BACB12BBEBB946C4C401.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_043.uasset'
+[2020.10.27-07.32.32:333][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_044" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_044.uasset" SILENT=true
+[2020.10.27-07.32.32:342][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_04453EB72E144B877B1CACAB9A6AF6BA611.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_044.uasset'
+[2020.10.27-07.32.32:350][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_045" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_045.uasset" SILENT=true
+[2020.10.27-07.32.32:360][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_045AF83582B43EB550642D6039E6705895C.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_045.uasset'
+[2020.10.27-07.32.32:369][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_046" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_046.uasset" SILENT=true
+[2020.10.27-07.32.32:380][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_0460806C2E340828F6A9C4297978A0147B3.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_046.uasset'
+[2020.10.27-07.32.32:390][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_047" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_047.uasset" SILENT=true
+[2020.10.27-07.32.32:399][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_047238B792342AFA942A76F6E908ABB858D.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_047.uasset'
+[2020.10.27-07.32.32:408][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_048" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_048.uasset" SILENT=true
+[2020.10.27-07.32.32:697][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_04839200A654BA6D7837D283FBB219CF007.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_048.uasset'
+[2020.10.27-07.32.32:717][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Material_049" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_049.uasset" SILENT=true
+[2020.10.27-07.32.32:730][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/Material_049B7532D2A4174914F6C8E4DB06D8C07A9.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/Material_049.uasset'
+[2020.10.27-07.32.32:738][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/tree" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/tree.uasset" SILENT=true
+[2020.10.27-07.32.32:753][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/tree51D18A184C8E36E30D8C8B9DB277C2D9.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/tree.uasset'
+[2020.10.27-07.32.32:760][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/trunkMat" FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/trunkMat.uasset" SILENT=true
+[2020.10.27-07.32.32:769][922]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/trunkMat178B9A224189526FFDDB4888C8DF16AD.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Props/trunkMat.uasset'
+[2020.10.27-07.32.32:771][922]Cmd: MAP LOAD FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.27-07.32.32:771][922]LightingResults: New page: Lighting Build
+[2020.10.27-07.32.32:771][922]LoadErrors: New page: Loading map: StarterMap.umap
+[2020.10.27-07.32.32:798][922]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-07.32.32:798][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-07.32.32:799][922]MapCheck: New page: Map Check
+[2020.10.27-07.32.32:799][922]LightingResults: New page: Lighting Build
+[2020.10.27-07.32.32:813][922]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002427075CB80), frame # 285922
+[2020.10.27-07.32.32:813][922]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000242740EE600), frame # 285922
+[2020.10.27-07.32.32:815][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.10.27-07.32.32:858][922]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.27-07.32.32:858][922]LogAIModule: Creating AISystem for world StarterMap
+[2020.10.27-07.32.32:859][922]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000242B9FE2800), frame # 285922
+[2020.10.27-07.32.32:859][922]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024299B5CA40), frame # 285922
+[2020.10.27-07.32.32:878][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.10.27-07.32.32:907][922]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.27-07.32.32:908][922]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.271ms to complete.
+[2020.10.27-07.32.32:908][922]LogFileHelpers: Loading map 'StarterMap' took 0.137
+[2020.10.27-07.32.33:211][922]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/black.black
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube.car_Cube
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_001.car_Cube_001
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_002.car_Cube_002
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_003.car_Cube_003
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_004.car_Cube_004
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_005.car_Cube_005
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_006.car_Cube_006
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_007.car_Cube_007
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_008.car_Cube_008
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_009.car_Cube_009
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_010.car_Cube_010
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_011.car_Cube_011
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_012.car_Cube_012
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_013.car_Cube_013
+[2020.10.27-07.32.33:211][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_014.car_Cube_014
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_015.car_Cube_015
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_016.car_Cube_016
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_017.car_Cube_017
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_018.car_Cube_018
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_019.car_Cube_019
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_020.car_Cube_020
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_021.car_Cube_021
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_022.car_Cube_022
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_023.car_Cube_023
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_024.car_Cube_024
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_025.car_Cube_025
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_026.car_Cube_026
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_027.car_Cube_027
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_028.car_Cube_028
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_029.car_Cube_029
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_030.car_Cube_030
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_031.car_Cube_031
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_032.car_Cube_032
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_033.car_Cube_033
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_034.car_Cube_034
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cube_035.car_Cube_035
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder.car_Cylinder
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_001.car_Cylinder_001
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_002.car_Cylinder_002
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_003.car_Cylinder_003
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_004.car_Cylinder_004
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_005.car_Cylinder_005
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_006.car_Cylinder_006
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_007.car_Cylinder_007
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Cylinder_008.car_Cylinder_008
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Plane.car_Plane
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Plane_000.car_Plane_000
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Plane_001.car_Plane_001
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Plane_002.car_Plane_002
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/car_Torus.car_Torus
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/house.house
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/leavesMate.leavesMate
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_001.Material_001
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_002.Material_002
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_003.Material_003
+[2020.10.27-07.32.33:212][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_004.Material_004
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_005.Material_005
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_006.Material_006
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_007.Material_007
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_008.Material_008
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_009.Material_009
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_010.Material_010
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_011.Material_011
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_012.Material_012
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_013.Material_013
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_014.Material_014
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_015.Material_015
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_016.Material_016
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_017.Material_017
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_018.Material_018
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_019.Material_019
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_020.Material_020
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_021.Material_021
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_022.Material_022
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_023.Material_023
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_024.Material_024
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_025.Material_025
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_026.Material_026
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_027.Material_027
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_028.Material_028
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_029.Material_029
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_030.Material_030
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_031.Material_031
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_032.Material_032
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_033.Material_033
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_034.Material_034
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_035.Material_035
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_036.Material_036
+[2020.10.27-07.32.33:213][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_037.Material_037
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_038.Material_038
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_039.Material_039
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_040.Material_040
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_041.Material_041
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_042.Material_042
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_043.Material_043
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_044.Material_044
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_045.Material_045
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_046.Material_046
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_047.Material_047
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_048.Material_048
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/Material_049.Material_049
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/tree.tree
+[2020.10.27-07.32.33:214][922]LogContentValidation: Display: Validating Material /Game/StarterContent/Props/trunkMat.trunkMat
+[2020.10.27-07.32.36:929][ 38]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-07.32.36:941][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.10.27-07.32.36:943][ 38]Cmd: MAP LOAD FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.27-07.32.36:944][ 38]LightingResults: New page: Lighting Build
+[2020.10.27-07.32.36:945][ 38]LoadErrors: New page: Loading map: roadProto.umap
+[2020.10.27-07.32.36:947][ 38]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-07.32.36:948][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-07.32.36:948][ 38]MapCheck: New page: Map Check
+[2020.10.27-07.32.36:948][ 38]LightingResults: New page: Lighting Build
+[2020.10.27-07.32.36:961][ 38]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024299B5CA40), frame # 286038
+[2020.10.27-07.32.36:961][ 38]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000242B9FE2800), frame # 286038
+[2020.10.27-07.32.36:963][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.10.27-07.32.36:977][ 38]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.27-07.32.36:977][ 38]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-07.32.36:977][ 38]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002420D858C00), frame # 286038
+[2020.10.27-07.32.36:977][ 38]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000242976F6C00), frame # 286038
+[2020.10.27-07.32.36:992][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.27-07.32.37:021][ 38]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.27-07.32.37:021][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2020.10.27-07.32.37:021][ 38]LogFileHelpers: Loading map 'roadProto' took 0.079

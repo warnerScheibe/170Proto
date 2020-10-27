@@ -1,2 +1,2 @@
-C:\Users\Warner\Desktop\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\Definitions.Proto01.h
-C:\Users\Warner\Desktop\170Proto\Proto01\Source\Proto01\Proto01.h
+D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\Definitions.Proto01.h
+d:\170\170proto\proto01\source\proto01\Proto01.h

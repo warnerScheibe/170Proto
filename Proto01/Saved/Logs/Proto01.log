@@ -2152,3 +2152,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-07.23.19:375][460]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/roadProto31C51CBC45D4A9706DFF219BB09B6B12.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
 [2020.10.27-07.23.19:514][460]AssetCheck: New page: Asset Save: roadProto
 [2020.10.27-07.23.19:514][460]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-07.26.41:407][325]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.27-07.26.43:413][485]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.27-07.26.46:164][738]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.27-07.26.54:773][540]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.27.18:194][563]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.27-07.27.25:210][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.30.00:241][507]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.30.07:065][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (car_Cube)
+[2020.10.27-07.30.09:624][303]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.30.13:385][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (car_Cube_001)
+[2020.10.27-07.30.15:894][840]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.30.16:726][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (car_Cube_003)
+[2020.10.27-07.30.25:618][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.30.33:723][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree)
+[2020.10.27-07.30.37:392][717]Cmd: EDIT COPY
+[2020.10.27-07.30.37:595][736]Cmd: EDIT PASTE
+[2020.10.27-07.30.46:557][563]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.30.50:488][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree73)
+[2020.10.27-07.30.51:591][992]Cmd: EDIT COPY
+[2020.10.27-07.30.51:797][ 10]Cmd: EDIT PASTE
+[2020.10.27-07.31.07:048][413]Cmd: EDIT COPY
+[2020.10.27-07.31.07:272][434]Cmd: EDIT PASTE
+[2020.10.27-07.31.11:855][850]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.31.12:528][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree74)
+[2020.10.27-07.31.21:412][717]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.31.23:181][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree74)
+[2020.10.27-07.31.27:876][309]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.31.32:277][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree26)
+[2020.10.27-07.31.32:905][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree38)
+[2020.10.27-07.31.35:661][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree)
+[2020.10.27-07.31.36:155][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.31.38:745][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree6)
+[2020.10.27-07.31.41:681][520]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.31.43:054][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree35)
+[2020.10.27-07.31.46:095][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.27-07.31.52:330][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.27-07.31.52:407][414]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/roadProtoFB0F3C124A235A1CA2C851A88BCE2D07.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
+[2020.10.27-07.31.52:553][414]AssetCheck: New page: Asset Save: roadProto
+[2020.10.27-07.31.52:553][414]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto

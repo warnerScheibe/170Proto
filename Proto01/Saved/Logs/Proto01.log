@@ -2139,3 +2139,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.27-07.21.30:071][ 52]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/roadProto658C3D8143B782F0B4AD2490A996CE96.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
 [2020.10.27-07.21.30:215][ 52]AssetCheck: New page: Asset Save: roadProto
 [2020.10.27-07.21.30:215][ 52]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-07.22.26:685][864]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.27-07.23.06:993][505]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2020.10.27-07.23.07:079][505]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.10.27-07.23.07:079][505]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.10.27-07.23.07:079][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.10.27-07.23.07:079][505]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.10.27-07.23.13:065][928]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.10.27-07.23.13:470][959]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.27-07.23.13:830][985]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.10.27-07.23.19:299][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.10.27-07.23.19:375][460]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Saved/roadProto31C51CBC45D4A9706DFF219BB09B6B12.tmp' to '../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
+[2020.10.27-07.23.19:514][460]AssetCheck: New page: Asset Save: roadProto
+[2020.10.27-07.23.19:514][460]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto

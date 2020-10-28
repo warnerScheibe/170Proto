@@ -1,0 +1,1633 @@
+﻿Log file open, 10/27/20 14:14:53
+LogInit: Display: Running engine for game: Proto01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.230723
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+Launching UnrealBuildTool... [D:/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe -Mode=QueryTargets -Project="D:/170/170Proto/Proto01/Proto01.uproject" -Output="D:/170/170Proto/Proto01/Intermediate/TargetInfo.json"]
+LogInit: Warning: Incompatible or missing module: Proto01
+Running D:/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="D:/170/170Proto/Proto01/Proto01.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (D:\170\170Proto).
+Creating makefile for Proto01Editor (.uproject file is newer)
+@progress push 5%
+Parsing headers for Proto01Editor
+  Running UnrealHeaderTool "D:\170\170Proto\Proto01\Proto01.uproject" "D:\170\170Proto\Proto01\Intermediate\Build\Win64\Proto01Editor\Development\Proto01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Trevor\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for Proto01Editor in 7.2155755 seconds
+@progress pop
+Building Proto01Editor...
+Using Visual Studio 2017 14.16.27026 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 15 actions with 8 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 7%
+  [1/15] Default.rc2
+  @progress 'Compiling C++ source code...' 13%
+  [2/15] SharedPCH.Engine.ShadowErrors.cpp
+  @progress 'Compiling C++ source code...' 20%
+  [3/15] Proto01.init.gen.cpp
+  @progress 'Compiling C++ source code...' 27%
+  [4/15] Proto01Projectile.cpp
+  @progress 'Compiling C++ source code...' 33%
+  [5/15] Proto01HUD.cpp
+  @progress 'Compiling C++ source code...' 40%
+  [6/15] Proto01GameMode.gen.cpp
+  @progress 'Compiling C++ source code...' 47%
+  [7/15] Proto01HUD.gen.cpp
+  @progress 'Compiling C++ source code...' 53%
+  [8/15] Proto01GameMode.cpp
+  @progress 'Compiling C++ source code...' 60%
+  [9/15] Proto01Character.gen.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [10/15] Proto01.cpp
+  @progress 'Compiling C++ source code...' 73%
+  [11/15] Proto01Projectile.gen.cpp
+  @progress 'Compiling C++ source code...' 80%
+  [12/15] Proto01Character.cpp
+  @progress 'Compiling C++ source code...' 87%
+  [13/15] UE4Editor-Proto01.lib
+     Creating library D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\UE4Editor-Proto01.lib and object D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\UE4Editor-Proto01.exp
+  @progress 'Compiling C++ source code...' 93%
+  [14/15] UE4Editor-Proto01.dll
+     Creating library D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\UE4Editor-Proto01.suppressed.lib and object D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\UE4Editor-Proto01.suppressed.exp
+  @progress 'Compiling C++ source code...' 100%
+  [15/15] Proto01Editor.target
+Total time in Parallel executor: 37.82 seconds
+Total execution time: 77.66 seconds
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=trevmorop -epicuserid=3a6cc38904b248bda63274288653f4a4 -epiclocale=en
+LogInit: Base Directory: D:/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.27-21.16.46:881][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.27-21.16.46:881][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.27-21.16.46:881][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.27-21.16.46:881][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.27-21.16.46:881][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.27-21.16.46:881][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.27-21.16.46:881][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.27-21.16.46:882][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.27-21.16.46:882][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.27-21.16.46:886][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.27-21.16.46:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.27-21.16.46:887][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.27-21.16.46:888][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.27-21.16.46:888][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.27-21.16.46:888][  0]LogHAL: Display: Platform has ~ 16 GB [17077735424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.27-21.16.46:888][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.27-21.16.46:888][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.27-21.16.46:888][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.27-21.16.46:889][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.27-21.16.46:889][  0]LogInit: Computer: DESKTOP-7N78L6J
+[2020.10.27-21.16.46:889][  0]LogInit: User: Trevor
+[2020.10.27-21.16.46:890][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.27-21.16.46:890][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.27-21.16.46:890][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.27-21.16.46:890][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.27-21.16.46:890][  0]LogMemory: Process Physical Memory: 124.09 MB used, 124.09 MB peak
+[2020.10.27-21.16.46:890][  0]LogMemory: Process Virtual Memory: 101.04 MB used, 101.04 MB peak
+[2020.10.27-21.16.46:890][  0]LogMemory: Physical Memory: 6614.99 MB used,  9671.61 MB free, 16286.60 MB total
+[2020.10.27-21.16.46:890][  0]LogMemory: Virtual Memory: 5223.41 MB used,  134212504.00 MB free, 134217728.00 MB total
+[2020.10.27-21.16.46:896][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.27-21.16.46:930][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.27-21.16.46:930][  0]LogInit: Using OS detected language (en-US).
+[2020.10.27-21.16.46:930][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.27-21.16.46:933][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.27-21.16.47:113][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.27-21.16.47:152][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.27-21.16.47:152][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.27-21.16.47:371][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.27-21.16.47:371][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.27-21.16.47:371][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.27-21.16.47:371][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.27-21.16.47:458][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.10.27-21.16.47:458][  0]LogD3D11RHI:       8088/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.27-21.16.47:488][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.10.27-21.16.47:488][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.27-21.16.47:490][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.27-21.16.47:490][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.27-21.16.47:490][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.27-21.16.47:499][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.27-21.16.47:500][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.27-21.16.47:500][  0]LogWindows: EnumDisplayDevices:
+[2020.10.27-21.16.47:500][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.10.27-21.16.47:500][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.10.27-21.16.47:500][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.10.27-21.16.47:500][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.10.27-21.16.47:501][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.27-21.16.47:501][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.27-21.16.47:501][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.27-21.16.47:501][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.10.27-21.16.47:501][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.10.27-21.16.47:501][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.10.27-21.16.47:501][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.10.27-21.16.47:501][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.10.27-21.16.47:565][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.27-21.16.47:565][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.27-21.16.47:565][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.27-21.16.47:591][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.27-21.16.47:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.27-21.16.47:942][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.27-21.16.47:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.27-21.16.47:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.27-21.16.47:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.27-21.16.47:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.27-21.16.47:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.27-21.16.48:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.27-21.16.48:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.27-21.16.48:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.27-21.16.48:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.27-21.16.48:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.27-21.16.48:055][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.27-21.16.48:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.27-21.16.48:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.27-21.16.48:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.27-21.16.48:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.27-21.16.48:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.27-21.16.48:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.27-21.16.48:106][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.27-21.16.48:113][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.27-21.16.48:167][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../170/170Proto/Proto01/Intermediate/Shaders/WorkingDirectory/11700/).
+[2020.10.27-21.16.48:167][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Trevor/AppData/Local/Temp/UnrealShaderWorkingDir/111791A24F7CD481622DA7AA399EA940/'.
+[2020.10.27-21.16.48:168][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.27-21.16.48:168][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.27-21.16.48:168][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.27-21.16.48:931][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.27-21.16.48:996][  0]LogDerivedDataCache: Loaded boot cache 0.06s 81MB C:/Users/Trevor/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.27-21.16.48:996][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Trevor/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.27-21.16.48:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../170/170Proto/Proto01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.27-21.16.48:996][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.27-21.16.48:996][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../170/170Proto/Proto01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.27-21.16.48:996][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.27-21.16.49:007][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.27-21.16.49:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.27-21.16.49:008][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.27-21.16.49:009][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Trevor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.27-21.16.49:009][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.27-21.16.49:009][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.27-21.16.49:061][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.27-21.16.49:061][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.27-21.16.49:090][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.10.27-21.16.49:342][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.27-21.16.49:527][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.27-21.16.49:527][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.27-21.16.49:527][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.27-21.16.49:527][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.27-21.16.49:527][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.27-21.16.49:556][  0]LogNetVersion: Proto01 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2830881591)
+[2020.10.27-21.16.50:133][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001C7DA0A82C0), frame # 0
+[2020.10.27-21.16.50:133][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C7D9FCEAC0), frame # 0
+[2020.10.27-21.16.50:134][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7DA054800), frame # 0
+[2020.10.27-21.16.50:205][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.066094 seconds
+[2020.10.27-21.16.50:211][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.27-21.16.50:211][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.27-21.16.50:211][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.27-21.16.50:552][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.27-21.16.50:556][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.27-21.16.53:888][  0]SourceControl: Source control is disabled
+[2020.10.27-21.16.53:888][  0]SourceControl: Source control is disabled
+[2020.10.27-21.16.53:891][  0]SourceControl: Source control is disabled
+[2020.10.27-21.16.53:893][  0]SourceControl: Source control is disabled
+[2020.10.27-21.16.53:901][  0]SourceControl: Source control is disabled
+[2020.10.27-21.16.54:130][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.27-21.16.54:149][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.27-21.16.54:149][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.27-21.16.54:197][  0]LogOcInput: OculusInput pre-init called
+[2020.10.27-21.16.54:490][  0]LogEngine: Initializing Engine...
+[2020.10.27-21.16.54:491][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.27-21.16.54:491][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.27-21.16.54:492][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.27-21.16.54:617][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.27-21.16.54:626][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.27-21.16.54:626][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7E32DBC00), frame # 0
+[2020.10.27-21.16.54:626][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C7E32F7100), frame # 0
+[2020.10.27-21.16.54:650][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-21.16.54:650][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-21.16.54:650][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-21.16.54:650][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-21.16.54:651][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-21.16.54:651][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-21.16.54:651][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-21.16.54:651][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-21.16.54:651][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-21.16.54:651][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-21.16.54:689][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-21.16.54:689][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-21.16.54:779][  0]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-21.16.54:782][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-21.16.54:784][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-21.16.54:784][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-21.16.54:785][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-21.16.54:786][  0]LogInit: FAudioDevice initialized.
+[2020.10.27-21.16.54:786][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.27-21.16.54:959][  0]LogDerivedDataCache: Saved boot cache 0.17s 82MB C:/Users/Trevor/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.27-21.16.54:963][  0]LogInit: Texture streaming: Enabled
+[2020.10.27-21.16.54:978][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.27-21.16.54:978][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.27-21.16.54:980][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.27-21.16.55:046][  0]LogInit: Transaction tracking system initialized
+[2020.10.27-21.16.55:066][  0]BlueprintLog: New page: Editor Load
+[2020.10.27-21.16.55:131][  0]LocalizationService: Localization service is disabled
+[2020.10.27-21.16.55:358][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.27-21.16.55:358][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.27-21.16.55:482][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Content/' took 0.01s
+[2020.10.27-21.16.55:720][  0]SourceControl: Source control is disabled
+[2020.10.27-21.16.55:720][  0]LogUnrealEdMisc: Loading editor; pre map load, took 124.573
+[2020.10.27-21.16.55:720][  0]Cmd: MAP LOAD FILE="../../../../../170/170Proto/Proto01/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.27-21.16.55:804][  0]LightingResults: New page: Lighting Build
+[2020.10.27-21.16.55:805][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.16.55:805][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.16.55:805][  0]MapCheck: New page: Map Check
+[2020.10.27-21.16.55:805][  0]LightingResults: New page: Lighting Build
+[2020.10.27-21.16.55:815][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7E32DBC00), frame # 0
+[2020.10.27-21.16.55:815][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C7E32F7100), frame # 0
+[2020.10.27-21.16.55:816][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.27-21.16.55:852][  0]LogLinker: Warning: While loading '../../../../../170/170Proto/Proto01/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.55:852][  0]LogLinker: Warning: While loading '../../../../../170/170Proto/Proto01/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.55:955][  0]LogLinker: Warning: While loading '../../../../../170/170Proto/Proto01/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.55:955][  0]LogLinker: Warning: While loading '../../../../../170/170Proto/Proto01/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.56:043][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.56:043][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.56:043][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.56:043][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.56:048][  0]LogLinker: Warning: While loading '../../../../../170/170Proto/Proto01/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.56:048][  0]LoadErrors: Failed to load /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.10.27-21.16.56:049][  0]LogLinker: Warning: While loading '../../../../../170/170Proto/Proto01/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData': Can't find file.
+[2020.10.27-21.16.56:049][  0]LoadErrors: Failed to load /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2020.10.27-21.16.56:687][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.27-21.16.56:687][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7E3940A00), frame # 0
+[2020.10.27-21.16.56:687][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C7D7BA5A80), frame # 0
+[2020.10.27-21.16.57:100][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.27-21.16.57:112][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.10.27-21.16.57:112][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.27-21.16.57:112][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2020.10.27-21.16.57:112][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.392
+[2020.10.27-21.16.57:128][  0]LogUnrealEdMisc: Total Editor Startup Time, took 125.980
+[2020.10.27-21.16.58:065][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.16.58:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.16.58:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.16.58:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.16.58:260][  0]LogCollectionManager: Loaded 0 collections in 0.000796 seconds
+[2020.10.27-21.16.58:541][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Saved/Collections/' took 0.00s
+[2020.10.27-21.16.58:541][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Content/Developers/Trevor/Collections/' took 0.00s
+[2020.10.27-21.16.58:541][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Content/Collections/' took 0.00s
+[2020.10.27-21.16.58:541][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3431 classes and 823 folders.
+[2020.10.27-21.16.58:648][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.10.27-21.17.01:543][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.27-21.17.02:033][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.10.27-21.17.03:249][  0]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.27-21.17.03:266][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.27-21.17.03:504][  0]LogSlate: Took 0.044407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.27-21.17.03:967][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.10.27-21.17.04:962][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.27-21.17.04:963][  0]LogLoad: (Engine Initialization) Total time: 133.81 seconds
+[2020.10.27-21.17.04:963][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.27-21.17.05:069][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.27-21.17.05:330][  0]LogSlate: Took 0.071260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.27-21.17.09:324][331]LogSlate: Took 0.030267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.27-21.17.35:365][609]LogAssetRegistry: Asset discovery search completed in 46.2760 seconds
+[2020.10.27-21.17.35:369][609]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.10.27-21.18.05:404][197]LogSlate: Window 'Message Log' being destroyed
+[2020.10.27-21.18.05:411][197]LogSlate: Window 'Message Log' being destroyed
+[2020.10.27-21.18.35:019][608]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.27-21.18.35:196][608]LogStaticMesh: Building static mesh car_Cube...
+[2020.10.27-21.18.35:242][608]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2020.10.27-21.18.35:242][608]LogStaticMesh: Built static mesh [0.12s] /Game/StarterContent/Props/car_Cube.car_Cube
+[2020.10.27-21.18.35:291][608]LogMaterial: Display: Missing cached shader map for material trunkMat, compiling. 
+[2020.10.27-21.18.35:368][608]LogMaterial: Display: Missing cached shader map for material leavesMate, compiling. 
+[2020.10.27-21.18.35:376][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.27-21.18.35:376][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.27-21.18.35:376][608]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.27-21.18.35:376][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.10.27-21.18.35:376][608]LogStaticMesh: Building static mesh tree...
+[2020.10.27-21.18.35:379][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/tree.tree
+[2020.10.27-21.18.35:381][608]LogStaticMesh: Building static mesh house...
+[2020.10.27-21.18.35:383][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/house.house
+[2020.10.27-21.18.35:386][608]LogMaterial: Display: Missing cached shader map for material Material_035, compiling. 
+[2020.10.27-21.18.35:396][608]LogStaticMesh: Building static mesh car_Torus...
+[2020.10.27-21.18.35:399][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Torus.car_Torus
+[2020.10.27-21.18.35:402][608]LogMaterial: Display: Missing cached shader map for material Material_040, compiling. 
+[2020.10.27-21.18.35:413][608]LogStaticMesh: Building static mesh car_Plane_002...
+[2020.10.27-21.18.35:414][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Plane_002.car_Plane_002
+[2020.10.27-21.18.35:415][608]LogMaterial: Display: Missing cached shader map for material Material_039, compiling. 
+[2020.10.27-21.18.35:424][608]LogStaticMesh: Building static mesh car_Plane_001...
+[2020.10.27-21.18.35:425][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Plane_001.car_Plane_001
+[2020.10.27-21.18.35:428][608]LogMaterial: Display: Missing cached shader map for material Material_037, compiling. 
+[2020.10.27-21.18.35:438][608]LogStaticMesh: Building static mesh car_Plane_000...
+[2020.10.27-21.18.35:439][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Plane_000.car_Plane_000
+[2020.10.27-21.18.35:441][608]LogMaterial: Display: Missing cached shader map for material Material_036, compiling. 
+[2020.10.27-21.18.35:450][608]LogStaticMesh: Building static mesh car_Plane...
+[2020.10.27-21.18.35:450][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Plane.car_Plane
+[2020.10.27-21.18.35:453][608]LogMaterial: Display: Missing cached shader map for material Material_042, compiling. 
+[2020.10.27-21.18.35:462][608]LogStaticMesh: Building static mesh car_Cylinder_008...
+[2020.10.27-21.18.35:462][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_008.car_Cylinder_008
+[2020.10.27-21.18.35:465][608]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2020.10.27-21.18.35:473][608]LogStaticMesh: Building static mesh car_Cylinder_007...
+[2020.10.27-21.18.35:474][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_007.car_Cylinder_007
+[2020.10.27-21.18.35:477][608]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2020.10.27-21.18.35:488][608]LogStaticMesh: Building static mesh car_Cylinder_006...
+[2020.10.27-21.18.35:488][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_006.car_Cylinder_006
+[2020.10.27-21.18.35:490][608]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2020.10.27-21.18.35:500][608]LogStaticMesh: Building static mesh car_Cylinder_005...
+[2020.10.27-21.18.35:501][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_005.car_Cylinder_005
+[2020.10.27-21.18.35:503][608]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2020.10.27-21.18.35:512][608]LogStaticMesh: Building static mesh car_Cylinder_004...
+[2020.10.27-21.18.35:512][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_004.car_Cylinder_004
+[2020.10.27-21.18.35:514][608]LogMaterial: Display: Missing cached shader map for material Material_048, compiling. 
+[2020.10.27-21.18.35:522][608]LogStaticMesh: Building static mesh car_Cylinder_003...
+[2020.10.27-21.18.35:523][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_003.car_Cylinder_003
+[2020.10.27-21.18.35:524][608]LogMaterial: Display: Missing cached shader map for material Material_049, compiling. 
+[2020.10.27-21.18.35:534][608]LogStaticMesh: Building static mesh car_Cylinder_002...
+[2020.10.27-21.18.35:534][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_002.car_Cylinder_002
+[2020.10.27-21.18.35:536][608]LogMaterial: Display: Missing cached shader map for material Material_046, compiling. 
+[2020.10.27-21.18.35:546][608]LogStaticMesh: Building static mesh car_Cylinder_001...
+[2020.10.27-21.18.35:546][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder_001.car_Cylinder_001
+[2020.10.27-21.18.35:549][608]LogMaterial: Display: Missing cached shader map for material Material_047, compiling. 
+[2020.10.27-21.18.35:559][608]LogStaticMesh: Building static mesh car_Cylinder...
+[2020.10.27-21.18.35:559][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cylinder.car_Cylinder
+[2020.10.27-21.18.35:562][608]LogMaterial: Display: Missing cached shader map for material Material_041, compiling. 
+[2020.10.27-21.18.35:570][608]LogStaticMesh: Building static mesh car_Cube_035...
+[2020.10.27-21.18.35:570][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_035.car_Cube_035
+[2020.10.27-21.18.35:572][608]LogMaterial: Display: Missing cached shader map for material Material_034, compiling. 
+[2020.10.27-21.18.35:584][608]LogStaticMesh: Building static mesh car_Cube_034...
+[2020.10.27-21.18.35:585][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_034.car_Cube_034
+[2020.10.27-21.18.35:586][608]LogMaterial: Display: Missing cached shader map for material Material_033, compiling. 
+[2020.10.27-21.18.35:597][608]LogStaticMesh: Building static mesh car_Cube_033...
+[2020.10.27-21.18.35:597][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_033.car_Cube_033
+[2020.10.27-21.18.35:599][608]LogMaterial: Display: Missing cached shader map for material Material_032, compiling. 
+[2020.10.27-21.18.35:610][608]LogStaticMesh: Building static mesh car_Cube_032...
+[2020.10.27-21.18.35:611][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_032.car_Cube_032
+[2020.10.27-21.18.35:612][608]LogMaterial: Display: Missing cached shader map for material Material_031, compiling. 
+[2020.10.27-21.18.35:621][608]LogStaticMesh: Building static mesh car_Cube_031...
+[2020.10.27-21.18.35:622][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_031.car_Cube_031
+[2020.10.27-21.18.35:623][608]LogMaterial: Display: Missing cached shader map for material Material_030, compiling. 
+[2020.10.27-21.18.35:637][608]LogStaticMesh: Building static mesh car_Cube_030...
+[2020.10.27-21.18.35:637][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_030.car_Cube_030
+[2020.10.27-21.18.35:639][608]LogMaterial: Display: Missing cached shader map for material Material_029, compiling. 
+[2020.10.27-21.18.35:650][608]LogStaticMesh: Building static mesh car_Cube_029...
+[2020.10.27-21.18.35:650][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_029.car_Cube_029
+[2020.10.27-21.18.35:653][608]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2020.10.27-21.18.35:663][608]LogStaticMesh: Building static mesh car_Cube_028...
+[2020.10.27-21.18.35:663][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_028.car_Cube_028
+[2020.10.27-21.18.35:665][608]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2020.10.27-21.18.35:674][608]LogStaticMesh: Building static mesh car_Cube_027...
+[2020.10.27-21.18.35:674][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_027.car_Cube_027
+[2020.10.27-21.18.35:676][608]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2020.10.27-21.18.35:686][608]LogStaticMesh: Building static mesh car_Cube_026...
+[2020.10.27-21.18.35:686][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_026.car_Cube_026
+[2020.10.27-21.18.35:688][608]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2020.10.27-21.18.35:697][608]LogStaticMesh: Building static mesh car_Cube_025...
+[2020.10.27-21.18.35:697][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_025.car_Cube_025
+[2020.10.27-21.18.35:699][608]LogMaterial: Display: Missing cached shader map for material Material_020, compiling. 
+[2020.10.27-21.18.35:709][608]LogStaticMesh: Building static mesh car_Cube_024...
+[2020.10.27-21.18.35:710][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_024.car_Cube_024
+[2020.10.27-21.18.35:712][608]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2020.10.27-21.18.35:724][608]LogStaticMesh: Building static mesh car_Cube_023...
+[2020.10.27-21.18.35:725][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_023.car_Cube_023
+[2020.10.27-21.18.35:728][608]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2020.10.27-21.18.35:741][608]LogStaticMesh: Building static mesh car_Cube_022...
+[2020.10.27-21.18.35:742][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_022.car_Cube_022
+[2020.10.27-21.18.35:744][608]LogMaterial: Display: Missing cached shader map for material Material_024, compiling. 
+[2020.10.27-21.18.35:755][608]LogStaticMesh: Building static mesh car_Cube_021...
+[2020.10.27-21.18.35:756][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_021.car_Cube_021
+[2020.10.27-21.18.35:757][608]LogMaterial: Display: Missing cached shader map for material Material_023, compiling. 
+[2020.10.27-21.18.35:767][608]LogStaticMesh: Building static mesh car_Cube_020...
+[2020.10.27-21.18.35:767][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_020.car_Cube_020
+[2020.10.27-21.18.35:770][608]LogMaterial: Display: Missing cached shader map for material Material_022, compiling. 
+[2020.10.27-21.18.35:784][608]LogStaticMesh: Building static mesh car_Cube_019...
+[2020.10.27-21.18.35:784][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_019.car_Cube_019
+[2020.10.27-21.18.35:785][608]LogMaterial: Display: Missing cached shader map for material black, compiling. 
+[2020.10.27-21.18.35:794][608]LogStaticMesh: Building static mesh car_Cube_018...
+[2020.10.27-21.18.35:794][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_018.car_Cube_018
+[2020.10.27-21.18.35:796][608]LogMaterial: Display: Missing cached shader map for material Material_025, compiling. 
+[2020.10.27-21.18.35:806][608]LogStaticMesh: Building static mesh car_Cube_017...
+[2020.10.27-21.18.35:806][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_017.car_Cube_017
+[2020.10.27-21.18.35:809][608]LogMaterial: Display: Missing cached shader map for material Material_026, compiling. 
+[2020.10.27-21.18.35:818][608]LogStaticMesh: Building static mesh car_Cube_016...
+[2020.10.27-21.18.35:818][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_016.car_Cube_016
+[2020.10.27-21.18.35:819][608]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2020.10.27-21.18.35:830][608]LogStaticMesh: Building static mesh car_Cube_015...
+[2020.10.27-21.18.35:830][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_015.car_Cube_015
+[2020.10.27-21.18.35:832][608]LogMaterial: Display: Missing cached shader map for material Material_019, compiling. 
+[2020.10.27-21.18.35:842][608]LogStaticMesh: Building static mesh car_Cube_014...
+[2020.10.27-21.18.35:842][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_014.car_Cube_014
+[2020.10.27-21.18.35:844][608]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2020.10.27-21.18.35:857][608]LogStaticMesh: Building static mesh car_Cube_013...
+[2020.10.27-21.18.35:858][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_013.car_Cube_013
+[2020.10.27-21.18.35:861][608]LogMaterial: Display: Missing cached shader map for material Material_021, compiling. 
+[2020.10.27-21.18.35:871][608]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2020.10.27-21.18.35:878][608]LogStaticMesh: Building static mesh car_Cube_010...
+[2020.10.27-21.18.35:879][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_010.car_Cube_010
+[2020.10.27-21.18.35:880][608]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2020.10.27-21.18.35:891][608]LogStaticMesh: Building static mesh car_Cube_012...
+[2020.10.27-21.18.35:891][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_012.car_Cube_012
+[2020.10.27-21.18.35:892][608]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2020.10.27-21.18.35:901][608]LogStaticMesh: Building static mesh car_Cube_011...
+[2020.10.27-21.18.35:901][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_011.car_Cube_011
+[2020.10.27-21.18.35:902][608]LogStaticMesh: Building static mesh car_Cube_009...
+[2020.10.27-21.18.35:903][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_009.car_Cube_009
+[2020.10.27-21.18.35:905][608]LogMaterial: Display: Missing cached shader map for material Material_043, compiling. 
+[2020.10.27-21.18.35:916][608]LogStaticMesh: Building static mesh car_Cube_008...
+[2020.10.27-21.18.35:916][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_008.car_Cube_008
+[2020.10.27-21.18.35:919][608]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2020.10.27-21.18.35:928][608]LogStaticMesh: Building static mesh car_Cube_007...
+[2020.10.27-21.18.35:928][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_007.car_Cube_007
+[2020.10.27-21.18.35:930][608]LogMaterial: Display: Missing cached shader map for material Material_028, compiling. 
+[2020.10.27-21.18.35:939][608]LogStaticMesh: Building static mesh car_Cube_006...
+[2020.10.27-21.18.35:940][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_006.car_Cube_006
+[2020.10.27-21.18.35:942][608]LogMaterial: Display: Missing cached shader map for material Material_027, compiling. 
+[2020.10.27-21.18.35:952][608]LogStaticMesh: Building static mesh car_Cube_005...
+[2020.10.27-21.18.35:952][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_005.car_Cube_005
+[2020.10.27-21.18.35:954][608]LogMaterial: Display: Missing cached shader map for material Material_038, compiling. 
+[2020.10.27-21.18.35:964][608]LogStaticMesh: Building static mesh car_Cube_004...
+[2020.10.27-21.18.35:965][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_004.car_Cube_004
+[2020.10.27-21.18.35:967][608]LogMaterial: Display: Missing cached shader map for material Material_044, compiling. 
+[2020.10.27-21.18.35:980][608]LogStaticMesh: Building static mesh car_Cube_003...
+[2020.10.27-21.18.35:981][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_003.car_Cube_003
+[2020.10.27-21.18.35:983][608]LogMaterial: Display: Missing cached shader map for material Material_045, compiling. 
+[2020.10.27-21.18.35:994][608]LogStaticMesh: Building static mesh car_Cube_002...
+[2020.10.27-21.18.35:994][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_002.car_Cube_002
+[2020.10.27-21.18.35:996][608]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.10.27-21.18.36:005][608]LogStaticMesh: Building static mesh car_Cube_001...
+[2020.10.27-21.18.36:008][608]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/car_Cube_001.car_Cube_001
+[2020.10.27-21.18.36:010][608]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2020.10.27-21.18.36:159][608]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2020.10.27-21.18.36:488][608]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-21.18.36:530][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.27-21.18.36:531][608]Cmd: MAP LOAD FILE="../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.27-21.18.36:532][608]LightingResults: New page: Lighting Build
+[2020.10.27-21.18.36:532][608]LoadErrors: New page: Loading map: roadProto.umap
+[2020.10.27-21.18.36:535][608]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.18.36:535][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.18.36:535][608]MapCheck: New page: Map Check
+[2020.10.27-21.18.36:536][608]LightingResults: New page: Lighting Build
+[2020.10.27-21.18.36:554][608]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7E3940A00), frame # 7608
+[2020.10.27-21.18.36:554][608]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C7D7BA5A80), frame # 7608
+[2020.10.27-21.18.36:555][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.27-21.18.36:600][608]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.27-21.18.36:601][608]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-21.18.36:601][608]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7DA4ACC00), frame # 7608
+[2020.10.27-21.18.36:601][608]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C78D350400), frame # 7608
+[2020.10.27-21.18.36:613][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.10.27-21.18.36:638][608]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.27-21.18.36:639][608]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2020.10.27-21.18.36:639][608]LogFileHelpers: Loading map 'roadProto' took 0.107
+[2020.10.27-21.18.38:715][783]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 809
+[2020.10.27-21.18.40:432][937]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 799
+[2020.10.27-21.18.40:994][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 789
+[2020.10.27-21.18.41:159][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 779
+[2020.10.27-21.18.46:174][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 769
+[2020.10.27-21.18.46:353][474]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 759
+[2020.10.27-21.18.47:254][559]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 749
+[2020.10.27-21.18.48:707][700]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 739
+[2020.10.27-21.18.51:934][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 729
+[2020.10.27-21.18.52:645][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 719
+[2020.10.27-21.18.54:457][246]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 709
+[2020.10.27-21.18.54:717][271]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 699
+[2020.10.27-21.18.58:183][602]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 689
+[2020.10.27-21.19.00:144][788]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 679
+[2020.10.27-21.19.00:293][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 669
+[2020.10.27-21.19.00:928][864]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 659
+[2020.10.27-21.19.05:657][313]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 649
+[2020.10.27-21.19.05:884][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 639
+[2020.10.27-21.19.06:660][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 629
+[2020.10.27-21.19.08:491][586]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 619
+[2020.10.27-21.19.11:359][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 609
+[2020.10.27-21.19.12:432][963]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 599
+[2020.10.27-21.19.14:713][181]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 589
+[2020.10.27-21.19.14:751][185]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 579
+[2020.10.27-21.19.18:139][510]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 569
+[2020.10.27-21.19.20:278][712]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 559
+[2020.10.27-21.19.20:479][734]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 549
+[2020.10.27-21.19.21:299][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 539
+[2020.10.27-21.19.25:866][243]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 529
+[2020.10.27-21.19.26:047][263]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 519
+[2020.10.27-21.19.26:821][335]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 509
+[2020.10.27-21.19.28:907][533]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 499
+[2020.10.27-21.19.31:603][792]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 489
+[2020.10.27-21.19.32:318][860]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 479
+[2020.10.27-21.19.34:361][ 52]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 469
+[2020.10.27-21.19.34:555][ 72]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 459
+[2020.10.27-21.19.37:854][388]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 449
+[2020.10.27-21.19.39:880][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 439
+[2020.10.27-21.19.40:130][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 429
+[2020.10.27-21.19.40:871][676]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 419
+[2020.10.27-21.19.45:599][126]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 409
+[2020.10.27-21.19.45:609][127]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 399
+[2020.10.27-21.19.46:320][195]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 389
+[2020.10.27-21.19.48:427][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 379
+[2020.10.27-21.19.51:320][673]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 369
+[2020.10.27-21.19.51:937][730]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 359
+[2020.10.27-21.19.53:973][924]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 349
+[2020.10.27-21.19.54:174][945]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 339
+[2020.10.27-21.19.57:512][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 329
+[2020.10.27-21.19.59:526][453]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 319
+[2020.10.27-21.19.59:656][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 309
+[2020.10.27-21.20.00:371][534]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 299
+[2020.10.27-21.20.05:033][973]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 289
+[2020.10.27-21.20.05:284][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 279
+[2020.10.27-21.20.05:946][ 62]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 269
+[2020.10.27-21.20.07:865][245]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 259
+[2020.10.27-21.20.11:174][560]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 249
+[2020.10.27-21.20.12:215][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 239
+[2020.10.27-21.20.14:474][879]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 229
+[2020.10.27-21.20.14:855][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 219
+[2020.10.27-21.20.18:427][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 209
+[2020.10.27-21.20.20:938][514]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 199
+[2020.10.27-21.20.21:018][523]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 189
+[2020.10.27-21.20.21:995][616]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 179
+[2020.10.27-21.20.26:770][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 169
+[2020.10.27-21.20.27:018][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 159
+[2020.10.27-21.20.27:627][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 149
+[2020.10.27-21.20.29:807][348]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 139
+[2020.10.27-21.20.32:612][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 129
+[2020.10.27-21.20.33:531][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 119
+[2020.10.27-21.20.35:415][849]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 109
+[2020.10.27-21.20.35:583][865]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 99
+[2020.10.27-21.20.38:996][167]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 89
+[2020.10.27-21.20.41:070][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 79
+[2020.10.27-21.20.41:238][380]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2020.10.27-21.20.41:957][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 59
+[2020.10.27-21.20.46:454][879]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2020.10.27-21.20.46:724][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.10.27-21.20.47:322][964]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.10.27-21.20.49:327][164]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.10.27-21.20.51:722][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.10.27-21.20.51:816][419]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.10.27-21.20.53:018][543]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.10.27-21.20.53:035][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.10.27-21.20.53:592][602]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.27-21.20.54:061][650]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.10.27-21.20.54:187][662]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.10.27-21.21.23:066][113]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-21.21.23:127][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-21.21.23:147][113]PIE: New page: PIE session: roadProto (Oct 27, 2020, 7:21:23 AM)
+[2020.10.27-21.21.23:184][113]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.27-21.21.23:199][113]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.27-21.21.23:200][113]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-21.21.23:230][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030760s)
+[2020.10.27-21.21.23:232][113]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-21.21.23:232][113]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C78D81A600), frame # 24113
+[2020.10.27-21.21.23:232][113]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C78D36A980), frame # 24113
+[2020.10.27-21.21.23:232][113]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2020.10.27-21.21.23:232][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.032658s)
+[2020.10.27-21.21.23:242][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.27-21.21.23:246][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-21.21.23:246][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-21.21.23:246][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-21.21.23:246][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-21.21.23:246][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-21.21.23:246][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-21.21.23:246][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-21.21.23:246][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-21.21.23:247][113]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-21.21.23:247][113]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-21.21.23:257][113]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-21.21.23:257][113]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-21.21.23:284][113]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-21.21.23:284][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-21.21.23:284][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-21.21.23:284][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-21.21.23:284][113]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-21.21.23:297][113]LogInit: FAudioDevice initialized.
+[2020.10.27-21.21.23:307][113]LogLoad: Game class is 'Proto01GameMode'
+[2020.10.27-21.21.23:383][113]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-14.21.23
+[2020.10.27-21.21.23:383][113]LogWorld: Bringing up level for play took: 0.003418
+[2020.10.27-21.21.23:383][113]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.10.27-21.21.23:477][113]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.10.27-21.21.23:519][113]PIE: Server logged in
+[2020.10.27-21.21.23:521][113]PIE: Play in editor total start time 0.395 seconds.
+[2020.10.27-21.21.34:095][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.21.34:095][332]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-21.21.34:095][332]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.21.34:096][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.21.34:124][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-21.21.34:126][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.21.34:152][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.21.34:154][332]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C78D81A600), frame # 25332
+[2020.10.27-21.21.34:154][332]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C78D36A980), frame # 25332
+[2020.10.27-21.21.34:155][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.27-21.21.34:187][333]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.10.27-21.32.53:963][889]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube.uasset to ../../../../../170/170Proto/Proto01/Content/Geometry/Meshes/1M_Cube.uasset
+[2020.10.27-21.32.53:982][889]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/CubeMaterial.uasset to ../../../../../170/170Proto/Proto01/Content/Geometry/Meshes/CubeMaterial.uasset
+[2020.10.27-21.32.54:718][889]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_4.25/FeaturePacks/TP_ThirdPersonBP.upack)
+[2020.10.27-21.32.54:722][889]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.10.27-21.32.54:774][889]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2020.10.27-21.32.54:823][889]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+[2020.10.27-21.32.54:841][889]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
+[2020.10.27-21.32.55:085][889]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2020.10.27-21.32.55:161][889]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2020.10.27-21.32.55:246][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2020.10.27-21.32.55:350][889]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonOverviewF5D1CE534F3A41EBF4027B9F89C804E8.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2020.10.27-21.32.55:403][889]AssetCheck: New page: Asset Save: ThirdPersonOverview
+[2020.10.27-21.32.55:403][889]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2020.10.27-21.32.59:738][404]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.10.27-21.33.16:678][395]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.27-21.33.19:760][692]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.10.27-21.33.20:691][801]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.27-21.33.21:744][901]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.27-21.33.23:954][144]LogSlate: Took 0.031591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.27-21.33.41:636][128]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/roadProto.roadProto:PersistentLevel.roadProto
+[2020.10.27-21.33.42:109][128]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2020.10.27-21.33.43:162][128]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.27-21.33.58:367][558]LogSlate: Window 'roadProto' being destroyed
+[2020.10.27-21.33.58:421][558]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.33.58:421][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.33.59:514][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/roadProto" FILE="../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.27-21.33.59:561][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.27-21.33.59:654][668]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/roadProto564C983D42932F9B3817B994B6C13FE4.tmp' to '../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
+[2020.10.27-21.33.59:699][668]AssetCheck: New page: Asset Save: roadProto
+[2020.10.27-21.33.59:699][668]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-21.34.26:763][413]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.27-21.34.26:770][413]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.10.27-21.35.46:587][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.10.27-21.35.54:786][815]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.10.27-21.35.54:849][815]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.35.54:849][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.37.18:710][823]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.27-21.37.18:718][823]LogSlate: Window 'Project Settings' being destroyed
+[2020.10.27-21.37.20:742][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-21.37.20:757][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-21.37.20:757][ 52]PIE: New page: PIE session: roadProto (Oct 27, 2020, 7:37:20 AM)
+[2020.10.27-21.37.20:779][ 52]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-21.37.20:797][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017565s)
+[2020.10.27-21.37.20:797][ 52]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-21.37.20:797][ 52]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C782D83A00), frame # 104052
+[2020.10.27-21.37.20:797][ 52]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C820AFE340), frame # 104052
+[2020.10.27-21.37.20:797][ 52]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2020.10.27-21.37.20:797][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.018725s)
+[2020.10.27-21.37.20:870][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-21.37.20:875][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-21.37.20:875][ 52]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-21.37.20:875][ 52]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-21.37.20:887][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-21.37.20:887][ 52]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-21.37.20:922][ 52]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-21.37.20:922][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-21.37.20:922][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-21.37.20:922][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-21.37.20:922][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-21.37.20:936][ 52]LogInit: FAudioDevice initialized.
+[2020.10.27-21.37.20:948][ 52]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-21.37.20:952][ 52]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-14.37.20
+[2020.10.27-21.37.20:953][ 52]LogWorld: Bringing up level for play took: 0.003034
+[2020.10.27-21.37.20:953][ 52]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.27-21.37.20:956][ 52]PIE: Server logged in
+[2020.10.27-21.37.20:957][ 52]PIE: Play in editor total start time 0.2 seconds.
+[2020.10.27-21.37.24:410][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.37.24:410][450]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-21.37.24:410][450]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.37.24:411][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.37.24:418][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-21.37.24:421][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.37.24:456][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.37.24:469][450]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C782D83A00), frame # 104450
+[2020.10.27-21.37.24:469][450]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C820AFE340), frame # 104450
+[2020.10.27-21.37.24:488][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.10.27-21.37.24:519][451]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.27-21.37.32:363][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-21.40.23:540][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-21.40.23:615][ 65]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter79AAF5D649F0D871DD3D38A5328C364C.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-21.40.23:635][ 65]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-21.40.23:635][ 65]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-21.44.03:545][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.10.27-21.44.03:612][854]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/roadProto_Auto11E04734B4CA554E965F2D2B7FD4BE9C2.tmp' to '../../../../../170/170Proto/Proto01/Saved/Autosaves/Game/StarterContent/Maps/roadProto_Auto1.umap'
+[2020.10.27-21.44.03:618][854]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/roadProto' took 0.096
+[2020.10.27-21.44.03:618][854]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.096
+[2020.10.27-21.59.43:361][864]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.10.27-21.59.43:392][864]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.59.43:392][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.59.45:141][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-21.59.45:156][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-21.59.45:157][ 63]PIE: New page: PIE session: roadProto (Oct 27, 2020, 7:59:45 AM)
+[2020.10.27-21.59.45:204][ 63]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-21.59.45:217][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013088s)
+[2020.10.27-21.59.45:218][ 63]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-21.59.45:218][ 63]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7EEA74C00), frame # 110063
+[2020.10.27-21.59.45:218][ 63]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C811787B00), frame # 110063
+[2020.10.27-21.59.45:219][ 63]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2020.10.27-21.59.45:219][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.014855s)
+[2020.10.27-21.59.45:239][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-21.59.45:242][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-21.59.45:242][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-21.59.45:242][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-21.59.45:256][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-21.59.45:256][ 63]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-21.59.45:287][ 63]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-21.59.45:287][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-21.59.45:287][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-21.59.45:287][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-21.59.45:288][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-21.59.45:301][ 63]LogInit: FAudioDevice initialized.
+[2020.10.27-21.59.45:312][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-21.59.45:316][ 63]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-14.59.45
+[2020.10.27-21.59.45:317][ 63]LogWorld: Bringing up level for play took: 0.004006
+[2020.10.27-21.59.45:317][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.10.27-21.59.45:320][ 63]PIE: Server logged in
+[2020.10.27-21.59.45:321][ 63]PIE: Play in editor total start time 0.166 seconds.
+[2020.10.27-21.59.53:155][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.59.53:155][991]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-21.59.53:155][991]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-21.59.53:156][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.59.53:167][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-21.59.53:171][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-21.59.53:209][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-21.59.53:210][991]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C811787B00), frame # 110991
+[2020.10.27-21.59.53:210][991]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7EEA74C00), frame # 110991
+[2020.10.27-21.59.53:214][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.10.27-21.59.53:260][992]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.10.27-22.02.29:450][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.02.30:794][ 10]LogRenderer: Reallocating scene render targets to support 1288x876 Format 10 NumSamples 1 (Frame:1).
+[2020.10.27-22.02.50:284][544]Cmd: MODE GRID=0
+[2020.10.27-22.02.58:474][211]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.02.58:560][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.10.27-22.02.59:198][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.02.59:241][252]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter4B17C81748F0726DECA749BDF12E4FFC.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.02.59:254][252]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.02.59:254][252]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.04.57:555][529]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.04.57:613][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.10.27-22.04.58:089][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.04.58:118][555]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter8B7A7F3B435FAB92A78DEAAB0510BA2F.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.04.58:134][555]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.04.58:134][555]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.05.27:387][190]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.05.27:435][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.27-22.05.27:920][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.05.27:953][219]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter457755DD46DB2EA70FDFB494D9B1CE03.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.05.27:968][219]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.05.27:968][219]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.05.48:422][505]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.05.48:477][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.10.27-22.05.49:085][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.05.49:114][549]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacterAC25EA7249EFFD2F80FF088D2E002CFC.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.05.49:128][549]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.05.49:129][549]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.05.52:461][811]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.05.52:507][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.10.27-22.05.53:018][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.05.53:048][843]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacterCAF06B8F4842AF4D398D4A9DFB33E2C4.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.05.53:063][843]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.05.53:063][843]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.06.04:974][995]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.10.27-22.06.05:039][995]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.06.05:039][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.06.06:503][160]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.06.06:518][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.06.06:518][160]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:06:06 AM)
+[2020.10.27-22.06.06:518][160]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.06.06:532][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013818s)
+[2020.10.27-22.06.06:533][160]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.06.06:533][160]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7E736F000), frame # 122160
+[2020.10.27-22.06.06:533][160]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C80DF21800), frame # 122160
+[2020.10.27-22.06.06:534][160]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2020.10.27-22.06.06:534][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.015297s)
+[2020.10.27-22.06.06:553][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.10.27-22.06.06:555][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.06.06:555][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.06.06:555][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.06.06:555][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.06.06:555][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.06.06:555][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.06.06:555][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.06.06:555][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.06.06:556][160]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.06.06:556][160]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.06.06:567][160]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.06.06:567][160]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.06.06:596][160]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.06.06:596][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.06.06:596][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.06.06:596][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.06.06:597][160]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.06.06:611][160]LogInit: FAudioDevice initialized.
+[2020.10.27-22.06.06:623][160]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.06.06:628][160]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.06.06
+[2020.10.27-22.06.06:629][160]LogWorld: Bringing up level for play took: 0.004335
+[2020.10.27-22.06.06:629][160]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.10.27-22.06.06:632][160]PIE: Server logged in
+[2020.10.27-22.06.06:633][160]PIE: Play in editor total start time 0.116 seconds.
+[2020.10.27-22.06.17:620][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.06.17:620][469]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.06.17:620][469]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.06.17:621][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.06.17:631][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.06.17:634][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.06.17:667][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.06.17:668][469]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C80DF21800), frame # 123469
+[2020.10.27-22.06.17:668][469]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7E736F000), frame # 123469
+[2020.10.27-22.06.17:671][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.27-22.06.17:702][470]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.10.27-22.06.32:835][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree37)
+[2020.10.27-22.07.12:510][171]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.07.26:118][ 99]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.07.26:166][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.10.27-22.07.26:592][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.07.26:620][121]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacterDABC0D3F48AA65D8F3F78FB03BC5C55F.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.07.26:637][121]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.07.26:637][121]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.07.27:502][192]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.07.27:518][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.07.27:518][192]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:07:27 AM)
+[2020.10.27-22.07.27:518][192]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.07.27:531][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012962s)
+[2020.10.27-22.07.27:532][192]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.07.27:532][192]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C80E177E00), frame # 128192
+[2020.10.27-22.07.27:532][192]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C82087B600), frame # 128192
+[2020.10.27-22.07.27:533][192]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2020.10.27-22.07.27:533][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.014228s)
+[2020.10.27-22.07.27:554][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.27-22.07.27:555][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.07.27:555][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.07.27:555][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.07.27:555][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.07.27:555][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.07.27:555][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.07.27:555][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.07.27:555][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.07.27:556][192]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.07.27:556][192]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.07.27:566][192]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.07.27:566][192]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.07.27:594][192]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.07.27:594][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.07.27:594][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.07.27:594][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.07.27:595][192]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.07.27:608][192]LogInit: FAudioDevice initialized.
+[2020.10.27-22.07.27:616][192]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.07.27:620][192]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.07.27
+[2020.10.27-22.07.27:620][192]LogWorld: Bringing up level for play took: 0.003193
+[2020.10.27-22.07.27:620][192]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.10.27-22.07.27:623][192]PIE: Server logged in
+[2020.10.27-22.07.27:623][192]PIE: Play in editor total start time 0.106 seconds.
+[2020.10.27-22.07.29:149][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.07.29:149][307]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.07.29:150][307]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.07.29:151][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.07.29:161][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.07.29:166][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.07.29:207][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.07.29:208][307]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C82087B600), frame # 128307
+[2020.10.27-22.07.29:208][307]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C80E177E00), frame # 128307
+[2020.10.27-22.07.29:211][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.10.27-22.07.29:252][308]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.10.27-22.07.31:496][518]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.10.27-22.07.33:572][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/roadProto" FILE="../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.27-22.07.33:594][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.10.27-22.07.33:664][754]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/roadProto05173B354DD8CA73256511B7210AE9AD.tmp' to '../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
+[2020.10.27-22.07.33:712][754]AssetCheck: New page: Asset Save: roadProto
+[2020.10.27-22.07.33:712][754]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-22.07.35:350][950]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.07.35:365][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.07.35:365][950]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:07:35 AM)
+[2020.10.27-22.07.35:365][950]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.07.35:377][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012377s)
+[2020.10.27-22.07.35:378][950]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.07.35:378][950]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C8216E1E00), frame # 128950
+[2020.10.27-22.07.35:378][950]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C7FEB956C0), frame # 128950
+[2020.10.27-22.07.35:379][950]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2020.10.27-22.07.35:379][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.013923s)
+[2020.10.27-22.07.35:402][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.07.35:404][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.07.35:404][950]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.07.35:404][950]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.07.35:416][950]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.07.35:416][950]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.07.35:443][950]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.07.35:443][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.07.35:443][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.07.35:443][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.07.35:443][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.07.35:457][950]LogInit: FAudioDevice initialized.
+[2020.10.27-22.07.35:468][950]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.07.35:472][950]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.07.35
+[2020.10.27-22.07.35:472][950]LogWorld: Bringing up level for play took: 0.003121
+[2020.10.27-22.07.35:472][950]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.10.27-22.07.35:475][950]PIE: Server logged in
+[2020.10.27-22.07.35:476][950]PIE: Play in editor total start time 0.112 seconds.
+[2020.10.27-22.07.48:619][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.07.48:619][512]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.07.48:619][512]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.07.48:620][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.07.48:630][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.07.48:633][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.07.48:669][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.07.48:670][512]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C7FEB956C0), frame # 130512
+[2020.10.27-22.07.48:670][512]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C8216E1E00), frame # 130512
+[2020.10.27-22.07.48:672][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.10.27-22.07.48:702][513]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.10.27-22.07.55:080][250]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.07.55:124][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.10.27-22.07.55:545][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.07.55:571][285]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter4FD626E64BB5D10A2091FB892A92169A.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.07.55:586][285]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.07.55:586][285]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.07.56:836][433]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.07.56:851][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.07.56:851][433]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:07:56 AM)
+[2020.10.27-22.07.56:888][433]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.07.56:901][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012749s)
+[2020.10.27-22.07.56:902][433]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.07.56:902][433]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C810259E00), frame # 131433
+[2020.10.27-22.07.56:902][433]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C811C3DBC0), frame # 131433
+[2020.10.27-22.07.56:902][433]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2020.10.27-22.07.56:902][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.014066s)
+[2020.10.27-22.07.56:923][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.10.27-22.07.56:924][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.07.56:924][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.07.56:924][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.07.56:924][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.07.56:924][433]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.07.56:924][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.07.56:924][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.07.56:924][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.07.56:925][433]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.07.56:925][433]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.07.56:937][433]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.07.56:937][433]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.07.56:965][433]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.07.56:965][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.07.56:965][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.07.56:965][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.07.56:966][433]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.07.56:979][433]LogInit: FAudioDevice initialized.
+[2020.10.27-22.07.56:987][433]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.07.56:991][433]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.07.56
+[2020.10.27-22.07.56:991][433]LogWorld: Bringing up level for play took: 0.003752
+[2020.10.27-22.07.56:991][433]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.27-22.07.56:994][433]PIE: Server logged in
+[2020.10.27-22.07.56:996][433]PIE: Play in editor total start time 0.145 seconds.
+[2020.10.27-22.08.00:609][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.00:609][858]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.00:609][858]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.08.00:610][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.00:620][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.08.00:625][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.00:664][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.00:665][858]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C811C3DBC0), frame # 131858
+[2020.10.27-22.08.00:665][858]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C810259E00), frame # 131858
+[2020.10.27-22.08.00:668][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.27-22.08.00:698][859]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.27-22.08.04:706][319]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.08.04:749][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.10.27-22.08.05:063][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.08.05:097][340]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter9DE50F0B4A97347A908D6EBF174F3C3C.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.08.05:116][340]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.08.05:116][340]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.08.06:000][442]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.08.06:015][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.08.06:015][442]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:08:06 AM)
+[2020.10.27-22.08.06:038][442]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.06:054][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015178s)
+[2020.10.27-22.08.06:054][442]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.08.06:054][442]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7E72BE400), frame # 132442
+[2020.10.27-22.08.06:054][442]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C7D18DE700), frame # 132442
+[2020.10.27-22.08.06:055][442]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2020.10.27-22.08.06:055][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.016423s)
+[2020.10.27-22.08.06:076][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.10.27-22.08.06:078][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.08.06:078][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.08.06:078][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.08.06:078][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.08.06:078][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.08.06:078][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.08.06:078][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.08.06:078][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.08.06:079][442]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.08.06:079][442]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.08.06:090][442]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.08.06:090][442]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.08.06:118][442]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.08.06:118][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.08.06:118][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.08.06:118][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.08.06:118][442]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.08.06:133][442]LogInit: FAudioDevice initialized.
+[2020.10.27-22.08.06:141][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.08.06:146][442]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.08.06
+[2020.10.27-22.08.06:146][442]LogWorld: Bringing up level for play took: 0.004149
+[2020.10.27-22.08.06:146][442]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.10.27-22.08.06:149][442]PIE: Server logged in
+[2020.10.27-22.08.06:150][442]PIE: Play in editor total start time 0.135 seconds.
+[2020.10.27-22.08.08:049][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.08:049][660]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.08:049][660]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.08.08:050][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.08:062][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.08.08:065][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.08:102][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.08:102][660]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C7D18DE700), frame # 132660
+[2020.10.27-22.08.08:102][660]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7E72BE400), frame # 132660
+[2020.10.27-22.08.08:105][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.10.27-22.08.08:143][661]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.10.27-22.08.12:682][180]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.08.12:726][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.10.27-22.08.13:017][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.08.13:049][200]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacterC12F844B4C59DDBAC0D25AB8BC4F6806.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.08.13:069][200]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.08.13:069][200]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.08.13:862][290]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.08.13:880][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.08.13:880][290]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:08:13 AM)
+[2020.10.27-22.08.13:880][290]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.13:895][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014211s)
+[2020.10.27-22.08.13:895][290]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.08.13:895][290]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C7D1849000), frame # 133290
+[2020.10.27-22.08.13:895][290]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C784673C40), frame # 133290
+[2020.10.27-22.08.13:896][290]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2020.10.27-22.08.13:896][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.015432s)
+[2020.10.27-22.08.13:917][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.10.27-22.08.13:918][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.08.13:918][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.08.13:918][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.08.13:918][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.08.13:918][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.08.13:918][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.08.13:918][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.08.13:918][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.08.13:919][290]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.08.13:919][290]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.08.13:930][290]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.08.13:930][290]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.08.13:959][290]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.08.13:959][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.08.13:959][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.08.13:959][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.08.13:960][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.08.13:973][290]LogInit: FAudioDevice initialized.
+[2020.10.27-22.08.13:983][290]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.08.13:987][290]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.08.13
+[2020.10.27-22.08.13:988][290]LogWorld: Bringing up level for play took: 0.003550
+[2020.10.27-22.08.13:988][290]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.10.27-22.08.13:991][290]PIE: Server logged in
+[2020.10.27-22.08.13:991][290]PIE: Play in editor total start time 0.112 seconds.
+[2020.10.27-22.08.15:398][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.15:398][448]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.15:399][448]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.08.15:399][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.15:408][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.08.15:411][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.15:448][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.15:449][448]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C784673C40), frame # 133448
+[2020.10.27-22.08.15:449][448]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C7D1849000), frame # 133448
+[2020.10.27-22.08.15:451][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.27-22.08.15:485][449]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.10.27-22.08.23:766][397]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.08.23:812][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.27-22.08.24:092][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.08.24:120][416]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter4E752D2A441F3FF561BB5F9E046451EE.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.08.24:139][416]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.08.24:139][416]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.08.25:246][546]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.08.25:264][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.08.25:264][546]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:08:25 AM)
+[2020.10.27-22.08.25:264][546]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.25:279][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014337s)
+[2020.10.27-22.08.25:280][546]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.08.25:280][546]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C781655000), frame # 134546
+[2020.10.27-22.08.25:280][546]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C78C6CD6C0), frame # 134546
+[2020.10.27-22.08.25:280][546]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2020.10.27-22.08.25:280][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.015597s)
+[2020.10.27-22.08.25:302][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.08.25:303][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.08.25:303][546]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.08.25:303][546]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.08.25:315][546]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.08.25:315][546]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.08.25:346][546]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.08.25:346][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.08.25:346][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.08.25:346][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.08.25:347][546]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.08.25:362][546]LogInit: FAudioDevice initialized.
+[2020.10.27-22.08.25:376][546]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.08.25:383][546]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.08.25
+[2020.10.27-22.08.25:383][546]LogWorld: Bringing up level for play took: 0.005633
+[2020.10.27-22.08.25:383][546]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.27-22.08.25:387][546]PIE: Server logged in
+[2020.10.27-22.08.25:388][546]PIE: Play in editor total start time 0.124 seconds.
+[2020.10.27-22.08.28:518][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.28:518][912]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.28:519][912]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.08.28:519][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.28:529][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.08.28:532][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.28:570][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.28:570][912]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C78C6CD6C0), frame # 134912
+[2020.10.27-22.08.28:571][912]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C781655000), frame # 134912
+[2020.10.27-22.08.28:573][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.10.27-22.08.28:605][913]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.27-22.08.32:373][345]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.10.27-22.08.32:417][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.10.27-22.08.32:687][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.10.27-22.08.32:715][362]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPersonCharacter950526E747646DF21FBCCEAAEF3D6CF2.tmp' to '../../../../../170/170Proto/Proto01/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.10.27-22.08.32:735][362]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.10.27-22.08.32:735][362]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.27-22.08.33:404][432]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.27-22.08.33:420][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.27-22.08.33:420][432]PIE: New page: PIE session: roadProto (Oct 27, 2020, 8:08:33 AM)
+[2020.10.27-22.08.33:447][432]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.33:463][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015496s)
+[2020.10.27-22.08.33:464][432]LogAIModule: Creating AISystem for world roadProto
+[2020.10.27-22.08.33:464][432]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C80CC68C00), frame # 135432
+[2020.10.27-22.08.33:464][432]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C7979274C0), frame # 135432
+[2020.10.27-22.08.33:464][432]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2020.10.27-22.08.33:464][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.016757s)
+[2020.10.27-22.08.33:486][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.10.27-22.08.33:487][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.27-22.08.33:487][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.27-22.08.33:487][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.27-22.08.33:488][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.27-22.08.33:488][432]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.27-22.08.33:488][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.27-22.08.33:488][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.27-22.08.33:488][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.27-22.08.33:488][432]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.27-22.08.33:488][432]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.27-22.08.33:500][432]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.27-22.08.33:500][432]LogAudioMixer: Display: 1: FrontRight
+[2020.10.27-22.08.33:528][432]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.27-22.08.33:529][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.27-22.08.33:529][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.27-22.08.33:529][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.27-22.08.33:529][432]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.27-22.08.33:544][432]LogInit: FAudioDevice initialized.
+[2020.10.27-22.08.33:551][432]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.27-22.08.33:555][432]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.27-15.08.33
+[2020.10.27-22.08.33:556][432]LogWorld: Bringing up level for play took: 0.003500
+[2020.10.27-22.08.33:556][432]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.10.27-22.08.33:559][432]PIE: Server logged in
+[2020.10.27-22.08.33:561][432]PIE: Play in editor total start time 0.141 seconds.
+[2020.10.27-22.08.38:469][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.38:469][  8]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.27-22.08.38:469][  8]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.27-22.08.38:470][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.38:480][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.27-22.08.38:483][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.27-22.08.38:520][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.27-22.08.38:521][  8]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C7979274C0), frame # 136008
+[2020.10.27-22.08.38:521][  8]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C80CC68C00), frame # 136008
+[2020.10.27-22.08.38:523][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.10.27-22.08.38:560][  9]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.10.27-22.08.39:256][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/roadProto" FILE="../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.27-22.08.39:278][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.10.27-22.08.39:335][ 82]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/roadProtoE7D50709494B150BD23B09B201B58F64.tmp' to '../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
+[2020.10.27-22.08.39:376][ 82]AssetCheck: New page: Asset Save: roadProto
+[2020.10.27-22.08.39:376][ 82]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.27-22.08.46:546][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.27-22.08.50:681][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms

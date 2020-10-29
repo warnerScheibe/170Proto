@@ -4488,3 +4488,50 @@ Script Stack (0 frames):
 [2020.10.29-00.11.31:592][376]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/ThirdPerson_AnimBP5016A568479A7FEE00E51B816BFF3097.tmp' to '../../../../../170/170Proto/Proto01/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
 [2020.10.29-00.11.31:627][376]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
 [2020.10.29-00.11.31:627][376]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2020.10.29-00.16.48:714][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.29-00.16.48:735][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-00.16.48:735][795]PIE: New page: PIE session: roadProto (Oct 28, 2020, 10:16:48 AM)
+[2020.10.29-00.16.48:779][795]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.29-00.16.48:797][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018046s)
+[2020.10.29-00.16.48:798][795]LogAIModule: Creating AISystem for world roadProto
+[2020.10.29-00.16.48:798][795]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023E4647E600), frame # 486795
+[2020.10.29-00.16.48:798][795]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023F5670DE40), frame # 486795
+[2020.10.29-00.16.48:799][795]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2020.10.29-00.16.48:799][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.020041s)
+[2020.10.29-00.16.48:828][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.10.29-00.16.48:831][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-00.16.48:831][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-00.16.48:831][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-00.16.48:831][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-00.16.48:831][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-00.16.48:832][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-00.16.48:832][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-00.16.48:832][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-00.16.48:832][795]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-00.16.48:832][795]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-00.16.48:847][795]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-00.16.48:847][795]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-00.16.48:878][795]LogAudioMixer: Display: Using Audio Device XG2401 SERIES (NVIDIA High Definition Audio)
+[2020.10.29-00.16.48:878][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-00.16.48:878][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-00.16.48:878][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-00.16.48:879][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-00.16.48:895][795]LogInit: FAudioDevice initialized.
+[2020.10.29-00.16.48:922][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-00.16.48:922][795]LogLoad: Game class is 'PlayerCharacterGameMode_C'
+[2020.10.29-00.16.48:930][795]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.28-17.16.48
+[2020.10.29-00.16.48:930][795]LogWorld: Bringing up level for play took: 0.007392
+[2020.10.29-00.16.48:930][795]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2020.10.29-00.16.48:942][795]PIE: Server logged in
+[2020.10.29-00.16.48:944][795]PIE: Play in editor total start time 0.21 seconds.
+[2020.10.29-00.16.50:690][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-00.16.50:690][974]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.29-00.16.50:690][974]LogSlate: Window 'Proto01 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.29-00.16.50:695][974]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-00.16.50:696][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-00.16.50:707][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-00.16.50:711][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-00.16.50:756][974]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023F5670DE40), frame # 486974
+[2020.10.29-00.16.50:756][974]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023E4647E600), frame # 486974
+[2020.10.29-00.16.50:759][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.29-00.16.50:795][975]LogPlayLevel: Display: Destroying online subsystem :Context_108

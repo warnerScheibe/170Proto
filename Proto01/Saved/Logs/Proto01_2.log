@@ -5011,3 +5011,674 @@ Error: CDO Constructor (Proto01HUD): Failed to find /Game/FirstPerson/Textures/F
 [2020.10.29-08.54.03:873][842]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerHUD9AF4D5BA4678F8958B7CA9B2DB137646.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerHUD.uasset'
 [2020.10.29-08.54.03:896][842]AssetCheck: New page: Asset Save: PlayerHUD
 [2020.10.29-08.54.03:896][842]LogContentValidation: Display: Validating WidgetBlueprint /Game/PlayerCharacterBP/Blueprints/PlayerHUD.PlayerHUD
+[2020.10.29-09.00.58:938][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.10.29-09.01.05:114][135]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.29-09.01.15:811][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.29-09.01.16:708][231]LogSlate: Window 'Save Content' being destroyed
+[2020.10.29-09.01.16:869][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2020.10.29-09.01.16:972][231]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BP_BaseInteractableF263EDBF4853C29ECB176DA8EAA2591E.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset'
+[2020.10.29-09.01.17:261][231]AssetCheck: New page: Asset Save: BP_BaseInteractable
+[2020.10.29-09.01.17:261][231]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.01.47:343][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.01.47:842][434]LogRenderer: Reallocating scene render targets to support 1280x876 Format 10 NumSamples 1 (Frame:1).
+[2020.10.29-09.01.52:764][599]LogSlate: Window 'BP_BaseInteractable' being destroyed
+[2020.10.29-09.01.53:978][733]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.01.53:978][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-09.01.54:000][733]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.01.54:000][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-09.01.54:407][773]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.01.54:407][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-09.02.28:738][855]BlueprintLog: New page: Compile BP_BaseInteractable
+[2020.10.29-09.02.28:813][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.10.29-09.02.29:553][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2020.10.29-09.02.29:581][919]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BP_BaseInteractable4AF2E7D74C48D3041E1E689CC4332AD3.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset'
+[2020.10.29-09.02.29:596][919]AssetCheck: New page: Asset Save: BP_BaseInteractable
+[2020.10.29-09.02.29:596][919]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.02.42:083][728]BlueprintLog: New page: Compile BP_BaseInteractable
+[2020.10.29-09.02.42:145][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.10.29-09.02.42:518][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2020.10.29-09.02.42:539][749]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BP_BaseInteractableD45AEC554D18A7452AE4929869A863A3.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset'
+[2020.10.29-09.02.42:554][749]AssetCheck: New page: Asset Save: BP_BaseInteractable
+[2020.10.29-09.02.42:554][749]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.03.04:418][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.10.29-09.03.05:245][379]LogSlate: Window 'Save Content' being destroyed
+[2020.10.29-09.03.05:402][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BPI_Interact" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BPI_Interact.uasset" SILENT=true
+[2020.10.29-09.03.05:410][379]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BPI_InteractDC3BCBF846857F546EF2A7AE7CC10B86.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BPI_Interact.uasset'
+[2020.10.29-09.03.05:695][379]AssetCheck: New page: Asset Save: BPI_Interact
+[2020.10.29-09.03.05:695][379]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BPI_Interact.BPI_Interact
+[2020.10.29-09.03.26:241][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BPI_Interact.BPI_Interact
+[2020.10.29-09.04.04:150][843]LogSlate: Took 0.005428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.29-09.04.52:888][852]BlueprintLog: New page: Compile BPI_Interact
+[2020.10.29-09.04.52:913][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.29-09.04.53:406][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BPI_Interact" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BPI_Interact.uasset" SILENT=true
+[2020.10.29-09.04.53:425][891]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BPI_Interact5A35812A43267541661B2899826300E6.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BPI_Interact.uasset'
+[2020.10.29-09.04.53:439][891]AssetCheck: New page: Asset Save: BPI_Interact
+[2020.10.29-09.04.53:439][891]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BPI_Interact.BPI_Interact
+[2020.10.29-09.05.26:409][ 23]BlueprintLog: New page: Compile BPI_Interact
+[2020.10.29-09.05.26:434][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.29-09.05.26:927][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BPI_Interact" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BPI_Interact.uasset" SILENT=true
+[2020.10.29-09.05.26:946][ 62]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BPI_InteractDAAC47734BBBCA28A60221882F285B2C.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BPI_Interact.uasset'
+[2020.10.29-09.05.26:966][ 62]AssetCheck: New page: Asset Save: BPI_Interact
+[2020.10.29-09.05.26:966][ 62]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BPI_Interact.BPI_Interact
+[2020.10.29-09.05.41:476][ 79]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.29-09.05.44:256][397]BlueprintLog: New page: Compile BP_BaseInteractable
+[2020.10.29-09.05.44:295][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.29-09.05.44:876][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2020.10.29-09.05.44:896][445]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BP_BaseInteractable3DA7E5844F3F72F317CB9FA1B69C6E2F.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset'
+[2020.10.29-09.05.44:911][445]AssetCheck: New page: Asset Save: BP_BaseInteractable
+[2020.10.29-09.05.44:911][445]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.07.47:696][267]BlueprintLog: New page: Compile BP_BaseInteractable
+[2020.10.29-09.07.47:741][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.29-09.07.48:152][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2020.10.29-09.07.48:185][295]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BP_BaseInteractable1E1DB5BD492D261E127B5EB52C0D69B3.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset'
+[2020.10.29-09.07.48:201][295]AssetCheck: New page: Asset Save: BP_BaseInteractable
+[2020.10.29-09.07.48:201][295]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.07.51:181][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.08.11:103][266]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.29-09.08.13:708][493]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.08.13:790][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.29-09.08.14:186][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.08.14:253][503]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPEE42134F4266B62F51514C88591AEF2C.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.08.14:268][503]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.08.14:268][503]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.09.23:533][252]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.09.23:616][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.29-09.09.24:236][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.09.24:306][291]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPD8ACA5464B7205C22EAC1FA068A529D5.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.09.24:329][291]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.09.24:329][291]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.09.47:880][854]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.09.47:972][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.10.29-09.09.48:628][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.09.48:694][905]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP33A631AD4109C47E1306B8BA2889D6BF.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.09.48:708][905]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.09.48:708][905]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.10.19:366][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.10.29-09.10.19:367][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/roadProto' took 0.032
+[2020.10.29-09.10.19:367][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP] ([1] browsable assets)...
+[2020.10.29-09.10.19:383][239]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP]
+[2020.10.29-09.10.19:383][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP]
+[2020.10.29-09.10.19:450][239]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP_Auto2622A71A8435FE67FF28680AA11658052.tmp' to '../../../../../170/170Proto/Proto01/Saved/Autosaves/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP_Auto2.uasset'
+[2020.10.29-09.10.19:451][239]LogFileHelpers: Auto-saving content packages took 0.085
+[2020.10.29-09.10.33:841][307]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.10.33:922][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.10.29-09.10.34:559][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.10.34:630][344]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP813F41C64BC42A33EB641DB2B43568B2.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.10.34:650][344]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.10.34:650][344]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.12.21:924][153]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.12.22:008][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.29-09.12.22:432][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.12.22:500][172]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP3F8F688341EAC031817B729123A180CC.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.12.22:516][172]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.12.22:516][172]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.13.15:966][825]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.13.16:053][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.10.29-09.13.16:488][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.13.16:567][852]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPD005F6634E3B05EEBDE74E81476E8116.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.13.16:584][852]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.13.16:584][852]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.13.47:887][751]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.13.47:971][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.10.29-09.13.48:354][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.13.48:426][770]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPBC3BD08F4210AB7CFEF6D981BA20499A.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.13.48:448][770]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.13.48:448][770]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.14.19:822][203]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.14.19:910][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.29-09.14.20:357][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.14.20:425][231]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP9CE30BBF4064433320A10FA499F4AA08.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.14.20:444][231]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.14.20:444][231]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.14.35:376][917]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.14.35:465][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.10.29-09.14.36:032][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.14.36:104][958]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP1085F5DB49276BF3D2371FB2676165CD.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.14.36:120][958]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.14.36:120][958]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.14.48:189][203]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.14.48:282][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.29-09.14.49:108][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.14.49:180][274]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPB3B7AD02497872E73ED1C48ED6469E5F.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.14.49:200][274]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.14.49:200][274]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.15.45:443][189]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Interactables/F_InteractableVar.F_InteractableVar
+[2020.10.29-09.16.04:007][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/F_InteractableVar" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/F_InteractableVar.uasset" SILENT=true
+[2020.10.29-09.16.04:016][354]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/F_InteractableVar592E22E64372B478930232A2643D350C.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/F_InteractableVar.uasset'
+[2020.10.29-09.16.04:278][354]AssetCheck: New page: Asset Save: F_InteractableVar
+[2020.10.29-09.16.04:278][354]LogContentValidation: Display: Validating UserDefinedStruct /Game/Interactables/F_InteractableVar.F_InteractableVar
+[2020.10.29-09.16.38:184][778]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.16.38:277][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.29-09.16.38:752][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.16.38:825][806]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPA67835DB4E2DAB8F2886E4AE85E4DABD.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.16.38:841][806]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.16.38:841][806]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.16.43:473][218]LogMetaData: Removing '/Game/Interactables/F_InteractableVars.F_InteractableVars' ref from Metadata '/Game/Interactables/F_InteractableVar.PackageMetaData'
+[2020.10.29-09.16.43:503][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/F_InteractableVars" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/F_InteractableVars.uasset" SILENT=true
+[2020.10.29-09.16.43:511][218]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/F_InteractableVarsD0FE75714074618ACC3898BA7D2D9926.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/F_InteractableVars.uasset'
+[2020.10.29-09.16.44:311][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.10.29-09.16.44:352][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.10.29-09.16.44:378][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.10.29-09.16.44:615][218]SourceControl: rm 'Proto01/Content/Interactables/F_InteractableVar.uasset'
+[2020.10.29-09.16.44:792][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.16.44:863][218]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPC94157E74BDBECFC3A97EF8F93B604D3.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.16.44:924][218]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.29-09.16.44:924][218]LogContentValidation: Display: Validating UserDefinedStruct /Game/Interactables/F_InteractableVars.F_InteractableVars
+[2020.10.29-09.16.44:924][218]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.16.50:749][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.10.29-09.19.50:782][564]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.19.50:808][564]LogBlueprint: Error: [Compiler PlayerCharacterBP] Default value '' for  Interactable Vars  is invalid: 'Array inputs (like 'Interactable Vars') must have an input wired into them (try connecting a MakeArray node).'
+[2020.10.29-09.19.50:861][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.10.29-09.19.51:431][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.19.51:520][605]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP5BD1B46345FC2AF74E58FF91897E1A2E.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.19.51:539][605]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.19.51:540][605]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.19.55:493][ 56]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.19.55:587][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.10.29-09.19.56:157][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.19.56:237][ 99]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPD11997524FA978514A6C56A852903728.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.19.56:254][ 99]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.19.56:254][ 99]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.20.13:542][939]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.20.13:620][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.10.29-09.20.14:102][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.20.14:175][969]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP728DACEB4950BD20306E049E074885EA.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.20.14:189][969]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.20.14:189][969]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.20.17:599][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.29-09.20.44:964][332]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.20.45:038][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.10.29-09.20.45:492][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.20.45:568][361]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP3F18FE574262E334606A38A6A33405DF.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.20.45:586][361]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.20.45:586][361]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.20.48:728][708]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Interactables/F_InteractableVars.F_InteractableVars
+[2020.10.29-09.20.53:934][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/F_InteractableVars" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/F_InteractableVars.uasset" SILENT=true
+[2020.10.29-09.20.53:951][306]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/F_InteractableVarsD77C8561433851BEBEBEDFA98915725C.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/F_InteractableVars.uasset'
+[2020.10.29-09.20.53:970][306]AssetCheck: New page: Asset Save: F_InteractableVars
+[2020.10.29-09.20.53:970][306]LogContentValidation: Display: Validating UserDefinedStruct /Game/Interactables/F_InteractableVars.F_InteractableVars
+[2020.10.29-09.21.17:332][ 46]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.21.17:416][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.29-09.21.17:820][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.21.17:889][ 67]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP41FC3DC7484C84589B0E46A7F1316386.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.21.17:912][ 67]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.21.17:912][ 67]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.21.47:302][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.10.29-09.21.47:304][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/roadProto' took 0.031
+[2020.10.29-09.21.47:304][738]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP] ([1] browsable assets)...
+[2020.10.29-09.21.47:316][738]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP]
+[2020.10.29-09.21.47:316][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP]
+[2020.10.29-09.21.47:390][738]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP_Auto3171462C940E7F4B4F6ADA583849C203E.tmp' to '../../../../../170/170Proto/Proto01/Saved/Autosaves/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP_Auto3.uasset'
+[2020.10.29-09.21.47:391][738]LogFileHelpers: Auto-saving content packages took 0.087
+[2020.10.29-09.22.36:042][ 70]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.22.36:065][ 70]LogBlueprint: Error: [Compiler PlayerCharacterBP] Default value '' for  Interactable Variables  is invalid: 'Array inputs (like 'Interactable Variables') must have an input wired into them (try connecting a MakeArray node).'
+[2020.10.29-09.22.36:112][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6FA9FECE-4E86-FCD5-B860-EFB9A5082A80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1d98eaf248fd1c1366e7efb700db2420%7C3a6cc38904b248bda63274288653f4a4%7C9b83ebd9-dc00-48ce-92c1-c347c0356a48&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: request failed, libcurl error: 0 (No error)
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1691cda3f70 [can pipeline])
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.199.251) port 443 (#23))
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 7 (Closing connection 23)
+[2020.10.29-09.24.41:968][836]LogHttp: Warning: 00000169B771B200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.29-09.24.42:302][837]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6FA9FECE-4E86-FCD5-B860-EFB9A5082A80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1d98eaf248fd1c1366e7efb700db2420%7C3a6cc38904b248bda63274288653f4a4%7C9b83ebd9-dc00-48ce-92c1-c347c0356a48&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.29-09.26.12:004][ 56]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.26.12:103][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.10.29-09.26.12:711][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.26.12:791][ 97]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPDCD01423414C083B2F82E5AB5158E286.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.26.12:808][ 97]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.26.12:808][ 97]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.26.14:588][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.10.29-09.26.19:933][863]LogUProjectInfo: Found projects:
+[2020.10.29-09.26.19:936][863]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.29-09.26.19:936][863]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.29-09.26.20:763][945]Cmd: CLOSE_SLATE_MAINFRAME
+[2020.10.29-09.26.20:791][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.10.29-09.26.20:822][945]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.26.20:822][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-09.26.20:872][945]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.26.20:872][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-09.26.20:893][945]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.29-09.26.20:893][945]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.26.20:894][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-09.26.21:010][945]LogSlate: Window 'Open Project' being destroyed
+[2020.10.29-09.26.21:018][945]LogSlate: Window 'Proto01 - Unreal Editor' being destroyed
+[2020.10.29-09.26.21:165][946]Cmd: QUIT_EDITOR
+[2020.10.29-09.26.21:165][946]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.29-09.26.21:179][946]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.29-09.26.22:079][946]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.29-09.26.22:100][946]LogExit: Preparing to exit.
+[2020.10.29-09.26.22:561][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:561][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:561][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:561][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:562][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:562][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:562][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:562][946]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.26.22:563][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:563][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:563][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:563][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:563][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:563][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:563][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2020.10.29-09.26.22:563][946]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.26.22:659][946]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.26.22:661][946]LogExit: Editor shut down
+[2020.10.29-09.26.22:664][946]LogExit: Transaction tracking system shut down
+[2020.10.29-09.26.22:673][946]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.29-09.26.22:787][946]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000016932C81000), frame # 225946
+[2020.10.29-09.26.22:787][946]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016932BF7B00), frame # 225946
+[2020.10.29-09.26.23:050][946]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001694123B140), frame # 225946
+[2020.10.29-09.26.23:051][946]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000016941202980), frame # 225946
+[2020.10.29-09.26.23:051][946]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001694134AA00), frame # 225946
+[2020.10.29-09.26.23:168][946]LogExit: Object subsystem successfully closed.
+[2020.10.29-09.26.23:196][946]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.29-09.26.23:212][946]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (800)
+[2020.10.29-09.26.23:212][946]LogModuleManager: Shutting down and abandoning module Voice (798)
+[2020.10.29-09.26.23:212][946]LogModuleManager: Shutting down and abandoning module SequencerWidgets (796)
+[2020.10.29-09.26.23:212][946]LogModuleManager: Shutting down and abandoning module BlueprintGraph (794)
+[2020.10.29-09.26.23:212][946]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (792)
+[2020.10.29-09.26.23:212][946]LogModuleManager: Shutting down and abandoning module SceneOutliner (790)
+[2020.10.29-09.26.23:212][946]LogModuleManager: Shutting down and abandoning module AddContentDialog (788)
+[2020.10.29-09.26.23:216][946]LogModuleManager: Shutting down and abandoning module WidgetCarousel (787)
+[2020.10.29-09.26.23:216][946]LogModuleManager: Shutting down and abandoning module EditorWidgets (784)
+[2020.10.29-09.26.23:216][946]LogModuleManager: Shutting down and abandoning module CollectionManager (782)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module StatsViewer (780)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (778)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module FoliageEdit (776)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module LandscapeEditor (774)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module MeshPaintMode (772)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (770)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module ActorPickerMode (768)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (766)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (764)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module AutomationWorker (762)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module SteamVREditor (760)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module OculusMR (758)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module GooglePADEditor (756)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (754)
+[2020.10.29-09.26.23:217][946]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (752)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (750)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (748)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (746)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (744)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (742)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (740)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (738)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module WebMMedia (736)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (734)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (732)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module SequenceRecorder (731)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (728)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (726)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (724)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (722)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (720)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (718)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (716)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (714)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (712)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (710)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module PlanarCut (708)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module CharacterAI (706)
+[2020.10.29-09.26.23:218][946]LogModuleManager: Shutting down and abandoning module TextureAlignMode (704)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module BspMode (702)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module PlacementMode (701)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module GeometryMode (698)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (696)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module SmartSnapping (694)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module SessionServices (692)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module MeshPaint (690)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module ViewportSnapping (688)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module ViewportInteraction (686)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module ClothPainter (684)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (683)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module LogVisualizer (680)
+[2020.10.29-09.26.23:219][946]LogModuleManager: Shutting down and abandoning module IntroTutorials (678)
+[2020.10.29-09.26.23:220][946]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (677)
+[2020.10.29-09.26.23:220][946]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (674)
+[2020.10.29-09.26.23:220][946]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (672)
+[2020.10.29-09.26.23:220][946]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (670)
+[2020.10.29-09.26.23:220][946]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (669)
+[2020.10.29-09.26.23:788][946]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (666)
+[2020.10.29-09.26.23:788][946]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (664)
+[2020.10.29-09.26.23:788][946]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (662)
+[2020.10.29-09.26.23:788][946]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (660)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module TraceInsights (658)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module TraceServices (657)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (654)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (652)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module InputBindingEditor (650)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module MergeActors (648)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (646)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module LocalizationService (645)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module HardwareTargeting (642)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (640)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module UndoHistory (638)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module XmlParser (636)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module Blutility (634)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (632)
+[2020.10.29-09.26.23:789][946]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (631)
+[2020.10.29-09.26.23:790][946]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (628)
+[2020.10.29-09.26.23:790][946]LogModuleManager: Shutting down and abandoning module SettingsEditor (626)
+[2020.10.29-09.26.23:790][946]LogModuleManager: Shutting down and abandoning module ProjectLauncher (624)
+[2020.10.29-09.26.23:790][946]LogModuleManager: Shutting down and abandoning module SessionFrontend (622)
+[2020.10.29-09.26.23:790][946]LogModuleManager: Shutting down and abandoning module ProfilerClient (620)
+[2020.10.29-09.26.23:790][946]LogModuleManager: Shutting down and abandoning module DeviceManager (618)
+[2020.10.29-09.26.23:790][946]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (617)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module AutomationController (614)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module AutomationWindow (612)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module Layers (610)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (608)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module DetailCustomizations (606)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module PackagesDialog (604)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (602)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module Persona (600)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (599)
+[2020.10.29-09.26.23:823][946]LogModuleManager: Shutting down and abandoning module AnimGraph (597)
+[2020.10.29-09.26.23:824][946]LogModuleManager: Shutting down and abandoning module Kismet (594)
+[2020.10.29-09.26.23:837][946]LogModuleManager: Shutting down and abandoning module KismetWidgets (593)
+[2020.10.29-09.26.23:837][946]LogModuleManager: Shutting down and abandoning module GraphEditor (590)
+[2020.10.29-09.26.23:837][946]LogModuleManager: Shutting down and abandoning module StructViewer (588)
+[2020.10.29-09.26.23:837][946]LogModuleManager: Shutting down and abandoning module ClassViewer (586)
+[2020.10.29-09.26.23:839][946]LogModuleManager: Shutting down and abandoning module Toolbox (584)
+[2020.10.29-09.26.23:839][946]LogModuleManager: Shutting down and abandoning module ModuleUI (582)
+[2020.10.29-09.26.23:839][946]LogModuleManager: Shutting down and abandoning module OutputLog (580)
+[2020.10.29-09.26.23:842][946]LogModuleManager: Shutting down and abandoning module GammaUI (578)
+[2020.10.29-09.26.23:842][946]LogModuleManager: Shutting down and abandoning module Documentation (576)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module LiveCoding (574)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module LevelSequence (572)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (570)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module MovieScene (568)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (566)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module LauncherPlatform (564)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module AnalyticsET (562)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module PortalServices (560)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module PortalRpc (558)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module MessagingRpc (556)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (554)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module AudioMixerCore (553)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module AIModule (550)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module GameplayDebugger (549)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module AITestSuite (547)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module NavigationSystem (545)
+[2020.10.29-09.26.23:843][946]LogModuleManager: Shutting down and abandoning module ProfilerService (542)
+[2020.10.29-09.26.23:982][946]LogModuleManager: Shutting down and abandoning module TaskGraph (540)
+[2020.10.29-09.26.23:982][946]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2020.10.29-09.26.23:982][946]LogModuleManager: Shutting down and abandoning module SynthesisEditor (536)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module Synthesis (534)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (532)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (530)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module OculusEditor (528)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module OculusInput (526)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (524)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module GooglePAD (522)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module EditableMesh (520)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (518)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module CableComponent (516)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module AudioCapture (514)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (513)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module AssetTags (510)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (508)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (506)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module AppleImageUtils (504)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module AndroidPermission (502)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2020.10.29-09.26.23:983][946]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2020.10.29-09.26.23:984][946]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module Proto01 (366)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.10.29-09.26.23:985][946]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.10.29-09.26.24:085][946]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.10.29-09.26.24:186][946]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.10.29-09.26.24:186][946]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.10.29-09.26.24:186][946]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.10.29-09.26.24:187][946]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.10.29-09.26.24:188][946]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.10.29-09.26.24:188][946]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.10.29-09.26.24:188][946]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.10.29-09.26.24:189][946]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.10.29-09.26.24:190][946]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.10.29-09.26.24:191][946]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.10.29-09.26.24:191][946]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.10.29-09.26.24:192][946]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.10.29-09.26.24:194][946]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.10.29-09.26.24:195][946]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.10.29-09.26.24:207][946]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.10.29-09.26.24:212][946]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.10.29-09.26.24:213][946]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.10.29-09.26.24:218][946]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.10.29-09.26.24:237][946]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.10.29-09.26.24:237][946]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.10.29-09.26.24:237][946]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.10.29-09.26.24:237][946]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.10.29-09.26.24:238][946]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.10.29-09.26.24:238][946]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.10.29-09.26.24:240][946]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.10.29-09.26.24:240][946]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.10.29-09.26.24:243][946]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.10.29-09.26.24:243][946]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.29-09.26.24:243][946]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6FA9FECE-4E86-FCD5-B860-EFB9A5082A80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1d98eaf248fd1c1366e7efb700db2420%7C3a6cc38904b248bda63274288653f4a4%7C9b83ebd9-dc00-48ce-92c1-c347c0356a48&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.10.29-09.26.24:246][946]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.10.29-09.26.24:247][946]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.10.29-09.26.24:249][946]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.29-09.26.24:251][946]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.29-09.26.24:252][946]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.29-09.26.24:252][946]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.29-09.26.24:252][946]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.29-09.26.24:252][946]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.29-09.26.24:254][946]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.29-09.26.24:254][946]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.10.29-09.26.24:261][946]LogD3D11RHI: Shutdown
+[2020.10.29-09.26.24:261][946]LogD3D11RHI: CleanupD3DDevice
+[2020.10.29-09.26.24:482][946]LogExit: Exiting.
+[2020.10.29-09.26.24:497][946]Log file closed, 10/29/20 02:26:24

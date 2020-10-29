@@ -1,0 +1,1029 @@
+﻿Log file open, 10/29/20 02:26:23
+LogInit: Display: Running engine for game: Proto01
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201805
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.29-09.26.24:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.29-09.26.24:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.29-09.26.24:315][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.29-09.26.24:318][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:318][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.29-09.26.24:319][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.29-09.26.24:320][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.29-09.26.24:320][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.29-09.26.24:320][  0]LogHAL: Display: Platform has ~ 16 GB [17077735424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.29-09.26.24:320][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.29-09.26.24:320][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.29-09.26.24:320][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.29-09.26.24:321][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.29-09.26.24:322][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/170/170Proto/Proto01/Saved/Config/Windows/Engine.ini]
+[2020.10.29-09.26.24:322][  0]LogInit: Computer: DESKTOP-7N78L6J
+[2020.10.29-09.26.24:322][  0]LogInit: User: Trevor
+[2020.10.29-09.26.24:322][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.29-09.26.24:322][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.29-09.26.24:323][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.29-09.26.24:323][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.29-09.26.24:323][  0]LogMemory: Process Physical Memory: 121.15 MB used, 121.16 MB peak
+[2020.10.29-09.26.24:323][  0]LogMemory: Process Virtual Memory: 102.67 MB used, 102.67 MB peak
+[2020.10.29-09.26.24:323][  0]LogMemory: Physical Memory: 10621.08 MB used,  5665.52 MB free, 16286.60 MB total
+[2020.10.29-09.26.24:323][  0]LogMemory: Virtual Memory: 5188.39 MB used,  134212536.00 MB free, 134217728.00 MB total
+[2020.10.29-09.26.24:330][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.29-09.26.24:372][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.29-09.26.24:373][  0]LogInit: Using OS detected language (en-US).
+[2020.10.29-09.26.24:373][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.29-09.26.24:376][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.29-09.26.24:613][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.29-09.26.24:653][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.29-09.26.24:653][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.29-09.26.24:917][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.29-09.26.24:917][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.29-09.26.24:917][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.29-09.26.24:917][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.29-09.26.25:009][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.10.29-09.26.25:009][  0]LogD3D11RHI:       8088/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.29-09.26.25:044][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.10.29-09.26.25:044][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.29-09.26.25:048][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.29-09.26.25:048][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.29-09.26.25:048][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.29-09.26.25:062][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.29-09.26.25:062][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.29-09.26.25:062][  0]LogWindows: EnumDisplayDevices:
+[2020.10.29-09.26.25:062][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.10.29-09.26.25:062][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.10.29-09.26.25:063][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.10.29-09.26.25:063][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.10.29-09.26.25:064][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.29-09.26.25:064][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.29-09.26.25:065][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.10.29-09.26.25:065][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.10.29-09.26.25:065][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.10.29-09.26.25:065][  0]LogD3D11RHI:   Driver Version: 442.59 (internal:26.21.14.4259, unified:442.59)
+[2020.10.29-09.26.25:065][  0]LogD3D11RHI:      Driver Date: 3-4-2020
+[2020.10.29-09.26.25:065][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.10.29-09.26.25:138][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.29-09.26.25:138][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.29-09.26.25:138][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.29-09.26.25:161][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.29-09.26.25:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.29-09.26.25:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.29-09.26.25:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.29-09.26.25:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.29-09.26.25:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.29-09.26.25:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.29-09.26.25:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.29-09.26.25:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.29-09.26.25:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.29-09.26.25:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.29-09.26.25:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.29-09.26.25:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.29-09.26.25:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.29-09.26.25:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.29-09.26.25:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.29-09.26.25:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.29-09.26.25:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.29-09.26.25:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.29-09.26.25:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.29-09.26.25:772][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.29-09.26.25:781][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.29-09.26.25:850][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../../170/170Proto/Proto01/Intermediate/Shaders/WorkingDirectory/6240/).
+[2020.10.29-09.26.25:851][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Trevor/AppData/Local/Temp/UnrealShaderWorkingDir/B05DC46747A63038830A128A7214DB16/'.
+[2020.10.29-09.26.25:851][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.29-09.26.25:851][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.29-09.26.25:851][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.29-09.26.26:796][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.29-09.26.26:881][  0]LogDerivedDataCache: Loaded boot cache 0.08s 82MB C:/Users/Trevor/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.29-09.26.26:881][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Trevor/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.29-09.26.26:882][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../170/170Proto/Proto01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.29-09.26.26:882][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.29-09.26.26:882][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../170/170Proto/Proto01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.29-09.26.26:882][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.29-09.26.26:894][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.29-09.26.26:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.29-09.26.26:894][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.29-09.26.26:895][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Trevor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.29-09.26.26:895][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.29-09.26.26:895][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.29-09.26.26:954][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.29-09.26.26:955][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.29-09.26.26:989][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2020.10.29-09.26.27:290][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.29-09.26.27:434][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.29-09.26.27:434][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.29-09.26.27:434][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.29-09.26.27:434][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.29-09.26.27:434][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.29-09.26.27:453][  0]LogNetVersion: Proto01 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2830881591)
+[2020.10.29-09.26.27:989][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001BF42D9B880), frame # 0
+[2020.10.29-09.26.27:989][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BF42D96AC0), frame # 0
+[2020.10.29-09.26.27:991][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BF42E10800), frame # 0
+[2020.10.29-09.26.28:074][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.074244 seconds
+[2020.10.29-09.26.28:083][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.29-09.26.28:083][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.29-09.26.28:083][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.29-09.26.28:490][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.29-09.26.28:496][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.29-09.26.28:538][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.10.29-09.26.28:538][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonCPP/Blueprints/FirstPersonCharacter': Can't find file.
+[2020.10.29-09.26.28:538][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C'
+[2020.10.29-09.26.28:538][  0]Error: CDO Constructor (Proto01GameMode): Failed to find /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C
+
+[2020.10.29-09.26.28:538][  0]LogLinker: Warning: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2020.10.29-09.26.28:539][  0]LogLinker: Warning: Failed to load '/Game/FirstPerson/Textures/FirstPersonCrosshair': Can't find file.
+[2020.10.29-09.26.28:539][  0]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Game/FirstPerson/Textures/FirstPersonCrosshair.FirstPersonCrosshair'
+[2020.10.29-09.26.28:539][  0]Error: CDO Constructor (Proto01HUD): Failed to find /Game/FirstPerson/Textures/FirstPersonCrosshair
+
+[2020.10.29-09.26.28:539][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2020.10.29-09.26.28:539][  0]LogUObjectBase: Warning: Error: CDO Constructor (Proto01GameMode): Failed to find /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C
+
+[2020.10.29-09.26.28:539][  0]LogUObjectBase: Warning: Error: CDO Constructor (Proto01HUD): Failed to find /Game/FirstPerson/Textures/FirstPersonCrosshair
+
+[2020.10.29-09.26.42:137][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.29-09.26.42:142][  0]Message dialog closed, result: Ok, title: Message, text: Default Property warnings and errors:
+Error: CDO Constructor (Proto01GameMode): Failed to find /Game/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C
+
+Error: CDO Constructor (Proto01HUD): Failed to find /Game/FirstPerson/Textures/FirstPersonCrosshair
+
+
+[2020.10.29-09.26.42:210][  0]SourceControl: Source control is disabled
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: URL: C:\Users\Trevor\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.10.29-09.26.42:210][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.29-09.26.42:211][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.10.29-09.26.42:211][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.10.29-09.26.42:211][  0]LogWindows: Warning: URL: C:\Users\Trevor\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.10.29-09.26.43:207][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.29-09.26.43:229][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.29-09.26.43:229][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.29-09.26.43:281][  0]LogOcInput: OculusInput pre-init called
+[2020.10.29-09.26.43:591][  0]LogEngine: Initializing Engine...
+[2020.10.29-09.26.43:593][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2020.10.29-09.26.43:593][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.29-09.26.43:596][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.10.29-09.26.43:747][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.29-09.26.43:759][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.29-09.26.43:759][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BF45183C00), frame # 0
+[2020.10.29-09.26.43:760][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BF451A3100), frame # 0
+[2020.10.29-09.26.43:781][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-09.26.43:781][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-09.26.43:781][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-09.26.43:781][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-09.26.43:781][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-09.26.43:781][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-09.26.43:781][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-09.26.43:781][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-09.26.43:782][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-09.26.43:782][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-09.26.43:834][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-09.26.43:834][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-09.26.43:885][  0]LogAudioMixer: Display: Using Audio Device Speakers (US-16x08)
+[2020.10.29-09.26.43:889][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-09.26.43:891][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-09.26.43:891][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-09.26.43:892][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-09.26.43:894][  0]LogInit: FAudioDevice initialized.
+[2020.10.29-09.26.43:894][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.29-09.26.44:152][  0]LogDerivedDataCache: Saved boot cache 0.26s 82MB C:/Users/Trevor/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.29-09.26.44:156][  0]LogInit: Texture streaming: Enabled
+[2020.10.29-09.26.44:175][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.29-09.26.44:175][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.29-09.26.44:176][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.29-09.26.44:245][  0]LogInit: Transaction tracking system initialized
+[2020.10.29-09.26.44:268][  0]BlueprintLog: New page: Editor Load
+[2020.10.29-09.26.44:340][  0]LocalizationService: Localization service is disabled
+[2020.10.29-09.26.44:516][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.29-09.26.44:516][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.29-09.26.44:669][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Content/' took 0.01s
+[2020.10.29-09.26.44:941][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.588
+[2020.10.29-09.26.44:941][  0]Cmd: MAP LOAD FILE="../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-09.26.44:941][  0]LightingResults: New page: Lighting Build
+[2020.10.29-09.26.44:942][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-09.26.44:942][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-09.26.44:942][  0]MapCheck: New page: Map Check
+[2020.10.29-09.26.44:942][  0]LightingResults: New page: Lighting Build
+[2020.10.29-09.26.44:952][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001BF45183C00), frame # 0
+[2020.10.29-09.26.44:952][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001BF451A3100), frame # 0
+[2020.10.29-09.26.44:953][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.29-09.26.45:550][  0]LogAIModule: Creating AISystem for world roadProto
+[2020.10.29-09.26.45:550][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001BF34AEBE00), frame # 0
+[2020.10.29-09.26.45:550][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001BF34AEFB00), frame # 0
+[2020.10.29-09.26.45:566][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.29-09.26.45:595][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.29-09.26.45:595][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.29-09.26.45:595][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2020.10.29-09.26.45:595][  0]LogFileHelpers: Loading map 'roadProto' took 0.654
+[2020.10.29-09.26.45:599][  0]LogUnrealEdMisc: Total Editor Startup Time, took 24.246
+[2020.10.29-09.26.45:677][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.29-09.26.45:750][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-09.26.45:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-09.26.45:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-09.26.45:783][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-09.26.45:791][  0]LogCollectionManager: Loaded 0 collections in 0.001127 seconds
+[2020.10.29-09.26.45:813][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Saved/Collections/' took 0.00s
+[2020.10.29-09.26.45:813][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Content/Developers/Trevor/Collections/' took 0.00s
+[2020.10.29-09.26.45:813][  0]LogFileCache: Scanning file cache for directory 'D:/170/170Proto/Proto01/Content/Collections/' took 0.00s
+[2020.10.29-09.26.45:813][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 3431 classes and 823 folders.
+[2020.10.29-09.26.45:817][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.29-09.26.45:925][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.10.29-09.26.45:927][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.10.29-09.26.45:958][  0]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.29-09.26.45:961][  0]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.29-09.26.45:968][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.29-09.26.46:051][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.10.29-09.26.46:171][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.10.29-09.26.46:172][  0]LogLoad: (Engine Initialization) Total time: 24.82 seconds
+[2020.10.29-09.26.46:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.29-09.26.46:217][  0]LogAssetRegistry: Asset discovery search completed in 19.2285 seconds
+[2020.10.29-09.26.46:221][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.10.29-09.26.46:226][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.29-09.26.46:270][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.29-09.26.47:214][101]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.29-09.26.52:238][633]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.26.52:412][633]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 125 classes and 0 folders.
+[2020.10.29-09.26.53:395][633]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BPI_Interact.BPI_Interact
+[2020.10.29-09.26.53:798][633]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.26.54:181][633]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Interactables/F_InteractableVars.F_InteractableVars
+[2020.10.29-09.26.54:265][633]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.29-09.26.58:752][ 94]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.29-09.26.58:993][123]LogSlate: Window 'BP_BaseInteractable' being destroyed
+[2020.10.29-09.27.04:384][739]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.27.04:473][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.29-09.27.04:893][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.27.04:967][761]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPC805F0F849CFC5B5C7CE8D94D2BDDE68.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.27.04:985][761]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.27.04:985][761]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.28.46:832][305]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.28.46:911][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.29-09.28.47:467][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.28.47:544][342]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPA6DCDE6E4CA78B75F13FADA168DEF816.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.28.47:558][342]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.28.47:558][342]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.29.00:982][896]LogBlueprint: Warning: [Compiler PlayerCharacterBP] Variable InteractableVariables is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.10.29-09.29.01:611][967]LogBlueprint: Warning: [Compiler PlayerCharacterBP] Variable InteractableVariables is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.10.29-09.29.05:606][298]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.10.29-09.29.07:909][503]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.10.29-09.29.07:914][503]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.10.29-09.29.30:489][505]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.29.30:571][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.10.29-09.29.31:015][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.29.31:097][532]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP94622A8A431ACFF6616101A40A9D76B5.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.29.31:111][532]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.29.31:111][532]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.33.09:108][213]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.33.09:203][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.29-09.33.09:652][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.33.09:740][237]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPFC41A0484BE0AAD7A2B58F9D2A1660D3.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.33.09:758][237]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.33.09:759][237]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.33.50:772][837]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.33.50:857][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.10.29-09.33.51:381][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.33.51:471][873]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP446F6AC349E8F3E85FADDDB19F8ED086.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.33.51:489][873]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.33.51:489][873]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.34.43:896][204]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.34.43:985][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.10.29-09.34.44:804][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.34.44:887][272]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP2307FEB7437EF68B17DA44BE98EF2BBF.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.34.44:903][272]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.34.44:903][272]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.35.29:580][470]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.35.29:671][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.10.29-09.35.30:104][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.35.30:181][494]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP33A58B76443FA7FDF2F17BA78F7CE40E.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.35.30:198][494]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.35.30:198][494]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.36.25:299][525]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.36.25:392][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.10.29-09.36.25:910][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.36.25:990][561]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPB25AC226442FC5A30920B98A06AD2063.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.36.26:007][561]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.36.26:007][561]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.36.36:883][662]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.36.36:982][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.29-09.36.37:485][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.36.37:568][696]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP6F78F6C14FFB838F761C4A90ED615168.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.36.37:587][696]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.36.37:587][696]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.37.08:506][447]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.29-09.37.14:566][150]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.37.14:655][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.10.29-09.37.15:114][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.37.15:199][177]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPF8223AAE49D02ED645BF92BDA60D1016.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.37.15:216][177]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.37.15:216][177]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.38.28:962][985]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.38.29:052][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.10.29-09.38.29:618][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.38.29:700][ 25]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPABA23F2E4C5E6F7B0A4056BF1F4F2842.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.38.29:716][ 25]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.38.29:716][ 25]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.39.11:578][ 11]BlueprintLog: New page: Compile BP_BaseInteractable
+[2020.10.29-09.39.11:640][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.29-09.39.12:200][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2020.10.29-09.39.12:229][ 55]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BP_BaseInteractableFE5C9DE64400C9552193F591BA0B0F4E.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset'
+[2020.10.29-09.39.12:249][ 55]AssetCheck: New page: Asset Save: BP_BaseInteractable
+[2020.10.29-09.39.12:249][ 55]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.39.43:237][ 86]BlueprintLog: New page: Compile BP_BaseInteractable
+[2020.10.29-09.39.43:293][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.10.29-09.39.43:784][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BP_BaseInteractable" FILE="../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset" SILENT=true
+[2020.10.29-09.39.43:808][122]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/BP_BaseInteractable9648102E4E9CC88EFCD9898428BF1BCD.tmp' to '../../../../../170/170Proto/Proto01/Content/Interactables/BP_BaseInteractable.uasset'
+[2020.10.29-09.39.43:827][122]AssetCheck: New page: Asset Save: BP_BaseInteractable
+[2020.10.29-09.39.43:827][122]LogContentValidation: Display: Validating Blueprint /Game/Interactables/BP_BaseInteractable.BP_BaseInteractable
+[2020.10.29-09.40.03:243][719]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.40.03:330][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.10.29-09.40.03:890][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.40.03:977][758]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPA7B8B03D4C62F3617731658F0ACAD51E.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.40.03:993][758]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.40.03:993][758]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.40.23:482][755]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.40.23:573][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.29-09.40.23:947][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.40.24:030][774]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP592E2B144CC9B27DF44C87ADB956FF33.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.40.24:048][774]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.40.24:048][774]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.40.47:949][906]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.40.48:039][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.10.29-09.40.48:582][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.40.48:668][944]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBPF9D1540D425BB99BFBD2E4937E2F526A.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.40.48:685][944]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.40.48:685][944]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.41.57:469][ 32]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.41.57:565][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.29-09.41.57:959][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.41.58:045][ 52]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP422FBB5F4ED397135DE7A08217946122.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.41.58:063][ 52]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.41.58:063][ 52]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.43.18:355][107]BlueprintLog: New page: Compile PlayerCharacterBP
+[2020.10.29-09.43.18:447][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.10.29-09.43.18:756][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset" SILENT=true
+[2020.10.29-09.43.18:830][109]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/PlayerCharacterBP9E942F1846EF988C0998F39184DD57DB.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/PlayerCharacterBP.uasset'
+[2020.10.29-09.43.18:847][109]AssetCheck: New page: Asset Save: PlayerCharacterBP
+[2020.10.29-09.43.18:847][109]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP
+[2020.10.29-09.44.36:935][799]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.29-09.44.37:026][799]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/roadProto_Auto1D276CB9043ABACA429E66EA94C4BB496.tmp' to '../../../../../170/170Proto/Proto01/Saved/Autosaves/Game/StarterContent/Maps/roadProto_Auto1.umap'
+[2020.10.29-09.44.37:032][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/roadProto' took 0.131
+[2020.10.29-09.44.37:032][799]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.131
+[2020.10.29-09.48.47:768][ 74]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Interactables/OutlineMat.OutlineMat
+[2020.10.29-09.48.47:794][ 74]LogMaterial: Display: Missing cached shader map for material OutlineMat, compiling. 
+[2020.10.29-09.48.48:438][ 74]LogMaterial: Display: Missing cached shader map for material OutlineMat, compiling. 
+[2020.10.29-09.48.48:458][ 74]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.10.29-09.48.48:458][ 74]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.29-09.48.48:459][ 74]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.10.29-09.48.48:459][ 74]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.10.29-09.48.48:460][ 74]LogMaterial: Display: Missing cached shader map for material OutlineMat, compiling. 
+[2020.10.29-09.48.50:487][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.10.29-09.48.50:760][283]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.10.29-09.48.50:880][296]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.10.29-09.48.50:922][301]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.10.29-09.48.51:506][346]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.10.29-09.48.51:537][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.10.29-09.48.51:643][360]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.10.29-09.48.51:713][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_62.MaterialExpressionAdd_10"')'
+[2020.10.29-09.48.51:713][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_1"')'
+[2020.10.29-09.48.51:713][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_27.MaterialExpressionAdd_5"')'
+[2020.10.29-09.48.51:713][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_28.MaterialExpressionSceneTexture_7"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2020.10.29-09.48.51:713][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_28.MaterialExpressionSceneTexture_7"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2020.10.29-09.48.51:713][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:714][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_5.MaterialExpressionAdd_0"')'
+[2020.10.29-09.48.51:714][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:715][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_8.MaterialExpressionAdd_2"')'
+[2020.10.29-09.48.51:715][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:716][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:716][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:717][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_6.MaterialExpressionMultiply_1"')'
+[2020.10.29-09.48.51:717][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScreenPosition'"MaterialGraphNode_3.MaterialExpressionScreenPosition_0"')'
+[2020.10.29-09.48.51:717][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:717][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexelSize'"MaterialGraphNode_4.MaterialExpressionSceneTexelSize_0"')'
+[2020.10.29-09.48.51:717][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_7.MaterialExpressionScalarParameter_0"')'
+[2020.10.29-09.48.51:717][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:718][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:718][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_9.MaterialExpressionMultiply_2"')'
+[2020.10.29-09.48.51:718][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScreenPosition'"MaterialGraphNode_3.MaterialExpressionScreenPosition_0"')'
+[2020.10.29-09.48.51:719][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:719][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_6.MaterialExpressionMultiply_1"')'
+[2020.10.29-09.48.51:719][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:720][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'"MaterialGraphNode_11.MaterialExpressionComponentMask_2"')'
+[2020.10.29-09.48.51:720][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'"MaterialGraphNode_12.MaterialExpressionComponentMask_3"')'
+[2020.10.29-09.48.51:720][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:720][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_1.MaterialExpressionSceneTexture_3"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2020.10.29-09.48.51:721][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:721][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_2.MaterialExpressionSceneTexture_6"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2020.10.29-09.48.51:721][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:721][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDistance'"MaterialGraphNode_10.MaterialExpressionDistance_0"')'
+[2020.10.29-09.48.51:722][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_14.MaterialExpressionScalarParameter_1"')'
+[2020.10.29-09.48.51:722][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_1"')'
+[2020.10.29-09.48.51:722][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_14.MaterialExpressionScalarParameter_1"')'
+[2020.10.29-09.48.51:722][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_1"')'
+[2020.10.29-09.48.51:722][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:723][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:723][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:724][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:724][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'"MaterialGraphNode_17.MaterialExpressionTime_1"')'
+[2020.10.29-09.48.51:724][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:725][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_18.MaterialExpressionMultiply_3"')'
+[2020.10.29-09.48.51:725][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:725][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'"MaterialGraphNode_19.MaterialExpressionSine_1"')'
+[2020.10.29-09.48.51:726][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:726][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_20.MaterialExpressionMultiply_5"')'
+[2020.10.29-09.48.51:726][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:727][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:727][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant4Vector'"MaterialGraphNode_51.MaterialExpressionConstant4Vector_2"')'
+[2020.10.29-09.48.51:727][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_10"')'
+[2020.10.29-09.48.51:728][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:728][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:729][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_60.MaterialExpressionAdd_8"')'
+[2020.10.29-09.48.51:729][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_25.MaterialExpressionScalarParameter_2"')'
+[2020.10.29-09.48.51:729][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:729][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_26.MaterialExpressionMultiply_8"')'
+[2020.10.29-09.48.51:730][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_28.MaterialExpressionSceneTexture_7"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2020.10.29-09.48.51:730][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:730][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:730][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDistance'"MaterialGraphNode_10.MaterialExpressionDistance_0"')'
+[2020.10.29-09.48.51:730][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_45.MaterialExpressionScalarParameter_3"')'
+[2020.10.29-09.48.51:731][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_1"')'
+[2020.10.29-09.48.51:731][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_45.MaterialExpressionScalarParameter_3"')'
+[2020.10.29-09.48.51:731][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_1"')'
+[2020.10.29-09.48.51:731][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:731][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:731][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDistance'"MaterialGraphNode_10.MaterialExpressionDistance_0"')'
+[2020.10.29-09.48.51:731][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_47.MaterialExpressionScalarParameter_4"')'
+[2020.10.29-09.48.51:732][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_1"')'
+[2020.10.29-09.48.51:732][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'"MaterialGraphNode_47.MaterialExpressionScalarParameter_4"')'
+[2020.10.29-09.48.51:732][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_15.MaterialExpressionConstant_1"')'
+[2020.10.29-09.48.51:732][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:732][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:733][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialGraphNode_13.MaterialExpressionIf_2"')'
+[2020.10.29-09.48.51:733][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_52.MaterialExpressionAdd_4"')'
+[2020.10.29-09.48.51:733][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:733][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:734][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant4Vector'"MaterialGraphNode_53.MaterialExpressionConstant4Vector_0"')'
+[2020.10.29-09.48.51:734][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_21.MaterialExpressionAdd_3"')'
+[2020.10.29-09.48.51:734][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:734][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:735][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant4Vector'"MaterialGraphNode_55.MaterialExpressionConstant4Vector_3"')'
+[2020.10.29-09.48.51:735][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_10"')'
+[2020.10.29-09.48.51:735][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:735][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:736][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant4Vector'"MaterialGraphNode_23.MaterialExpressionConstant4Vector_5"')'
+[2020.10.29-09.48.51:736][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_54.MaterialExpressionMultiply_10"')'
+[2020.10.29-09.48.51:736][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:736][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialGraphNode_44.MaterialExpressionIf_0"')'
+[2020.10.29-09.48.51:736][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_56.MaterialExpressionAdd_1"')'
+[2020.10.29-09.48.51:737][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:737][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialGraphNode_46.MaterialExpressionIf_1"')'
+[2020.10.29-09.48.51:737][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_24.MaterialExpressionAdd_6"')'
+[2020.10.29-09.48.51:737][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:738][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_48.MaterialExpressionMultiply_0"')'
+[2020.10.29-09.48.51:738][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_57.MaterialExpressionMultiply_12"')'
+[2020.10.29-09.48.51:738][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:738][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_59.MaterialExpressionAdd_7"')'
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'"MaterialGraphNode_58.MaterialExpressionMultiply_13"')'
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialGraphNode_13.MaterialExpressionIf_2"')'
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialGraphNode_44.MaterialExpressionIf_0"')'
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_61.MaterialExpressionAdd_9"')'
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionIf'"MaterialGraphNode_46.MaterialExpressionIf_1"')'
+[2020.10.29-09.48.51:739][365]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'"/Engine/Transient.interactive_multi_outline"''
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/Round.Round:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.sRGBToLinear:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.Widget3DCameraPassThrough_Opaque_OneSided:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial.FloorPlaneMaterial:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/BufferVisualization/CustomStencil.CustomStencil:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/BufferVisualization/Velocity.Velocity:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.MAT_LevelColorationLitLightmapUV:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EngineDebugMaterials/GeomMaterial.GeomMaterial:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EngineDebugMaterials/ClothMaterial.ClothMaterial:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EngineDebugMaterials/ClothMaterial_WF.ClothMaterial_WF:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EditorMaterials/CompositeARGBLayer.CompositeARGBLayer:MaterialExpressionComment_0
+[2020.10.29-09.48.51:740][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EditorMaterials/TilingAALineIntegral.TilingAALineIntegral:MaterialExpressionComment_0
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.ComputeFilterWidth:MaterialExpressionComment_0
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/EditorMaterials/MakeCompositeARGBLayer.MakeCompositeARGBLayer:MaterialExpressionComment_0
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Engine/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.MatLayerBlend_NormalBlend:MaterialExpressionComment_0
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0 or MaterialExpressionComment /Game/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4:MaterialExpressionComment_0
+[2020.10.29-09.48.51:741][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_0) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_0).  Import failed...
+[2020.10.29-09.48.51:741][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_0"''
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /Engine/BufferVisualization/CustomStencil.CustomStencil:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /Engine/EditorMaterials/TilingAALineBoxFiltered.TilingAALineBoxFiltered:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1 or MaterialExpressionComment /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige:MaterialExpressionComment_1
+[2020.10.29-09.48.51:741][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_1) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_1).  Import failed...
+[2020.10.29-09.48.51:741][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_1"''
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_2
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionComment_2
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Engine/BufferVisualization/CustomStencil.CustomStencil:MaterialExpressionComment_2
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_2
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_2
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2 or MaterialExpressionComment /Game/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO:MaterialExpressionComment_2
+[2020.10.29-09.48.51:742][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec:MaterialExpressionComment_2) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_2).  Import failed...
+[2020.10.29-09.48.51:742][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_2"''
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /Engine/BufferVisualization/CustomStencil.CustomStencil:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /Engine/BufferVisualization/PreTonemapHDRColor.PreTonemapHDRColor:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /Engine/BufferVisualization/PostTonemapHDRColor.PostTonemapHDRColor:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /Engine/EngineDebugMaterials/ClothMaterial.ClothMaterial:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /Engine/EngineDebugMaterials/ClothMaterial_WF.ClothMaterial_WF:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3 or MaterialExpressionComment /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4:MaterialExpressionComment_3
+[2020.10.29-09.48.51:742][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_3) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_3).  Import failed...
+[2020.10.29-09.48.51:742][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_3"''
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_4 or MaterialExpressionComment /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionComment_4
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_4 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_4
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_4 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_4
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_4 or MaterialExpressionComment /Game/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4:MaterialExpressionComment_4
+[2020.10.29-09.48.51:742][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_4) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_4).  Import failed...
+[2020.10.29-09.48.51:742][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_4"''
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_5 or MaterialExpressionComment /Engine/EngineMaterials/BaseFlattenMaterial.BaseFlattenMaterial:MaterialExpressionComment_5
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_5 or MaterialExpressionComment /Engine/BufferVisualization/CustomStencil.CustomStencil:MaterialExpressionComment_5
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_5 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_5
+[2020.10.29-09.48.51:742][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_5 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_5
+[2020.10.29-09.48.51:743][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_5) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_5).  Import failed...
+[2020.10.29-09.48.51:743][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_5"''
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_6 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.ScreenAlignedUVs:MaterialExpressionComment_6
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_6 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_6
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_6 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_6
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_6 or MaterialExpressionComment /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass:MaterialExpressionComment_6
+[2020.10.29-09.48.51:743][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_6) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_6).  Import failed...
+[2020.10.29-09.48.51:743][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_6"''
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_7 or MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.ScreenAlignedUVs:MaterialExpressionComment_7
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_7 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey:MaterialExpressionComment_7
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_7 or MaterialExpressionComment /OculusVR/Materials/OculusMR_ChromaKey_Lit.OculusMR_ChromaKey_Lit:MaterialExpressionComment_7
+[2020.10.29-09.48.51:743][365]LogUObjectHash: Warning: Ambiguous path search, could be MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_7 or MaterialExpressionComment /Game/StarterContent/Materials/M_Ground_Grass.M_Ground_Grass:MaterialExpressionComment_7
+[2020.10.29-09.48.51:743][365]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialExpressionComment /Engine/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.DebugScalarValues:MaterialExpressionComment_7) from referencer (MaterialGraphNode_Comment /Engine/Transient.OutlineMat:MaterialGraph_0.MaterialGraphNode_Comment_7).  Import failed...
+[2020.10.29-09.48.51:743][365]LogProperty: Warning: ObjectProperty /Script/UnrealEd.MaterialGraphNode_Comment:MaterialExpressionComment: unresolved reference to 'MaterialExpressionComment'"MaterialExpressionComment_7"''
+[2020.10.29-09.48.51:834][365]LogMaterial: Display: Missing cached shader map for material OutlineMat, compiling. 
+[2020.10.29-09.48.51:842][365]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.10.29-09.48.51:844][365]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_2, compiling. 
+[2020.10.29-09.48.51:852][365]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.10.29-09.48.51:856][365]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_3, compiling. 
+[2020.10.29-09.48.51:860][365]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_5, compiling. 
+[2020.10.29-09.48.52:042][369]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.10.29-09.48.52:434][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.10.29-09.48.52:634][398]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.10.29-09.48.52:922][412]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.10.29-09.48.52:942][413]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.10.29-09.48.53:043][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.10.29-09.48.53:551][451]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.10.29-09.48.53:635][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.10.29-09.48.53:969][483]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.10.29-09.48.54:036][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.10.29-09.48.54:253][503]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.10.29-09.48.54:431][514]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13

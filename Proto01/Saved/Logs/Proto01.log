@@ -16355,3 +16355,159 @@ Purging the undo buffer...
 [2020.10.30-10.15.34:533][872]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A6024F5E00), frame # 507872
 [2020.10.30-10.15.34:536][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
 [2020.10.30-10.15.34:573][873]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2020.10.30-10.18.05:282][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/HUD/InventoryHUD" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.uasset" SILENT=true
+[2020.10.30-10.18.05:325][752]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/InventoryHUD451DAF0C47CC60D175B1B09AB87DCC98.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.uasset'
+[2020.10.30-10.18.05:347][752]AssetCheck: New page: Asset Save: InventoryHUD
+[2020.10.30-10.18.05:347][752]LogContentValidation: Display: Validating WidgetBlueprint /Game/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.InventoryHUD
+[2020.10.30-10.18.50:386][959]BlueprintLog: New page: Compile InventoryHUD
+[2020.10.30-10.18.50:454][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.10.30-10.18.51:204][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/HUD/InventoryHUD" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.uasset" SILENT=true
+[2020.10.30-10.18.51:244][ 24]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/InventoryHUD854D66724518234198CFFA916F5B9C41.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.uasset'
+[2020.10.30-10.18.51:263][ 24]AssetCheck: New page: Asset Save: InventoryHUD
+[2020.10.30-10.18.51:263][ 24]LogContentValidation: Display: Validating WidgetBlueprint /Game/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.InventoryHUD
+[2020.10.30-10.18.56:048][503]LogEditorTransaction: Undo Move Widget
+[2020.10.30-10.19.05:395][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.30-10.19.05:413][552]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.30-10.19.05:417][552]LogPlayLevel: [PlayLevel] Compiling InventoryHUD before play...
+[2020.10.30-10.19.05:544][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.10.30-10.19.05:546][552]LogPlayLevel: PlayLevel: Blueprint regeneration took 132 ms (1 blueprints)
+[2020.10.30-10.19.05:546][552]PIE: New page: PIE session: roadProto (Oct 29, 2020, 8:19:05 PM)
+[2020.10.30-10.19.05:546][552]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.30-10.19.05:563][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017357s)
+[2020.10.30-10.19.05:565][552]LogAIModule: Creating AISystem for world roadProto
+[2020.10.30-10.19.05:565][552]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A641938C00), frame # 523552
+[2020.10.30-10.19.05:565][552]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A623551F80), frame # 523552
+[2020.10.30-10.19.05:566][552]LogPlayLevel: PIE: World Init took: (0.002392s)
+[2020.10.30-10.19.05:566][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.019880s)
+[2020.10.30-10.19.05:602][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.10.30-10.19.05:603][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.30-10.19.05:603][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.30-10.19.05:603][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.30-10.19.05:603][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.30-10.19.05:603][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.30-10.19.05:603][552]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.30-10.19.05:603][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.30-10.19.05:603][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.30-10.19.05:604][552]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.30-10.19.05:604][552]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.30-10.19.05:616][552]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.30-10.19.05:616][552]LogAudioMixer: Display: 1: FrontRight
+[2020.10.30-10.19.05:639][552]LogAudioMixer: Display: Using Audio Device Speakers (US-16x08)
+[2020.10.30-10.19.05:639][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.30-10.19.05:639][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.30-10.19.05:639][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.30-10.19.05:640][552]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.30-10.19.05:654][552]LogInit: FAudioDevice initialized.
+[2020.10.30-10.19.05:686][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.30-10.19.05:687][552]LogLoad: Game class is 'PlayerCharacterGameMode_C'
+[2020.10.30-10.19.05:694][552]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.30-03.19.05
+[2020.10.30-10.19.05:694][552]LogWorld: Bringing up level for play took: 0.006359
+[2020.10.30-10.19.05:694][552]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2020.10.30-10.19.05:716][552]PIE: Server logged in
+[2020.10.30-10.19.05:717][552]PIE: Play in editor total start time 0.304 seconds.
+[2020.10.30-10.19.06:533][618]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:534][618]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:534][618]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:534][618]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:534][618]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:534][618]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:534][618]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:534][618]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.06:535][618]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.13:972][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.30-10.19.13:972][306]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.30-10.19.13:973][306]LogSlate: Window 'Proto01 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.30-10.19.13:979][306]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.30-10.19.13:981][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-10.19.13:988][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.30-10.19.13:994][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-10.19.14:050][306]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A623551F80), frame # 524306
+[2020.10.30-10.19.14:050][306]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A641938C00), frame # 524306
+[2020.10.30-10.19.14:053][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.10.30-10.19.14:083][307]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2020.10.30-10.19.25:823][590]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.30-10.19.26:636][686]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.30-10.19.26:657][686]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.30-10.19.26:661][686]LogPlayLevel: [PlayLevel] Compiling InventoryHUD before play...
+[2020.10.30-10.19.26:844][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.10.30-10.19.26:846][686]LogPlayLevel: PlayLevel: Blueprint regeneration took 188 ms (1 blueprints)
+[2020.10.30-10.19.26:846][686]PIE: New page: PIE session: roadProto (Oct 29, 2020, 8:19:26 PM)
+[2020.10.30-10.19.26:846][686]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.30-10.19.26:863][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017260s)
+[2020.10.30-10.19.26:864][686]LogAIModule: Creating AISystem for world roadProto
+[2020.10.30-10.19.26:864][686]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A651AA8C00), frame # 525686
+[2020.10.30-10.19.26:865][686]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A6522B9080), frame # 525686
+[2020.10.30-10.19.26:865][686]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2020.10.30-10.19.26:865][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/roadProto.roadProto to /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto (0.018946s)
+[2020.10.30-10.19.26:901][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.30-10.19.26:902][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.30-10.19.26:902][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.30-10.19.26:902][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.30-10.19.26:902][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.30-10.19.26:902][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.30-10.19.26:902][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.30-10.19.26:902][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.30-10.19.26:902][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.30-10.19.26:903][686]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.30-10.19.26:903][686]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.30-10.19.26:914][686]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.30-10.19.26:914][686]LogAudioMixer: Display: 1: FrontRight
+[2020.10.30-10.19.26:935][686]LogAudioMixer: Display: Using Audio Device Speakers (US-16x08)
+[2020.10.30-10.19.26:936][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.30-10.19.26:936][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.30-10.19.26:936][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.30-10.19.26:936][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.30-10.19.26:950][686]LogInit: FAudioDevice initialized.
+[2020.10.30-10.19.26:970][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.30-10.19.26:970][686]LogLoad: Game class is 'PlayerCharacterGameMode_C'
+[2020.10.30-10.19.26:978][686]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_roadProto.roadProto up for play (max tick rate 0) at 2020.10.30-03.19.26
+[2020.10.30-10.19.26:978][686]LogWorld: Bringing up level for play took: 0.007426
+[2020.10.30-10.19.26:979][686]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2020.10.30-10.19.26:985][686]PIE: Server logged in
+[2020.10.30-10.19.26:986][686]PIE: Play in editor total start time 0.33 seconds.
+[2020.10.30-10.19.28:594][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:594][815]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:596][815]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:597][815]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:597][815]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:597][815]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:597][815]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:597][815]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.28:597][815]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/PlayerCharacterBP/Blueprints/PlayerCharacterBP.PlayerCharacterBP_C'!
+[2020.10.30-10.19.43:182][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.30-10.19.43:182][162]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_roadProto
+[2020.10.30-10.19.43:182][162]LogSlate: Window 'Proto01 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.30-10.19.43:189][162]LogWorld: UWorld::CleanupWorld for roadProto, bSessionEnded=true, bCleanupResources=true
+[2020.10.30-10.19.43:191][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-10.19.43:198][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.30-10.19.43:204][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.30-10.19.43:266][162]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A6522B9080), frame # 527162
+[2020.10.30-10.19.43:266][162]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A651AA8C00), frame # 527162
+[2020.10.30-10.19.43:269][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.10.30-10.19.43:303][163]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.10.30-10.19.46:048][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacterBP/Blueprints/HUD/InventoryHUD" FILE="../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.uasset" SILENT=true
+[2020.10.30-10.19.46:084][451]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/InventoryHUDD7094B6D453A388A84FCC8B234F12A96.tmp' to '../../../../../170/170Proto/Proto01/Content/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.uasset'
+[2020.10.30-10.19.46:102][451]AssetCheck: New page: Asset Save: InventoryHUD
+[2020.10.30-10.19.46:103][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/PlayerCharacterBP/Blueprints/HUD/InventoryHUD.InventoryHUD
+[2020.10.30-10.19.46:375][480]BlueprintLog: New page: Compile InventoryHUD
+[2020.10.30-10.19.46:458][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.10.30-10.19.47:757][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/roadProto" FILE="../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.30-10.19.47:799][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.10.30-10.19.47:883][593]LogSavePackage: Moving '../../../../../170/170Proto/Proto01/Saved/roadProto31119C294861AD51E050D0A51DFCDCB1.tmp' to '../../../../../170/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap'
+[2020.10.30-10.19.47:941][593]AssetCheck: New page: Asset Save: roadProto
+[2020.10.30-10.19.47:941][593]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.10.30-10.19.48:515][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms

@@ -2591,3 +2591,4 @@ Error: CDO Constructor (Proto01HUD): Failed to find /Game/FirstPerson/Textures/F
 [2020.11.01-10.23.47:707][558]LogHttp: Warning: 0000019A2E10D600: libcurl info message cache 7 (Closing connection 0)
 [2020.11.01-10.23.47:707][558]LogHttp: Warning: 0000019A2E10D600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
 [2020.11.01-10.23.47:707][558]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBC9D5CD7-49BB-83CD-F216-E5B32F5C548C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1d98eaf248fd1c1366e7efb700db2420%7C3a6cc38904b248bda63274288653f4a4%7C9b83ebd9-dc00-48ce-92c1-c347c0356a48&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.01-10.25.33:695][  8]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)

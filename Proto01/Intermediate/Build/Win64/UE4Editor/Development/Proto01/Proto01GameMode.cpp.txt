@@ -1,20 +1,20 @@
-D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\Definitions.Proto01.h
-d:\170\170proto\proto01\source\proto01\Proto01GameMode.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01GameMode.generated.h
-d:\170\170proto\proto01\source\proto01\Proto01HUD.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01HUD.generated.h
-d:\170\170proto\proto01\source\proto01\Proto01Character.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01Character.generated.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\Definitions.Proto01.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Source\Proto01\Proto01GameMode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01GameMode.generated.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Source\Proto01\Proto01HUD.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01HUD.generated.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Source\Proto01\Proto01Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01Character.generated.h

@@ -1,11 +1,11 @@
-D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\Definitions.Proto01.h
-d:\170\170proto\proto01\source\proto01\Proto01Projectile.h
-D:\170\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01Projectile.generated.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
-D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Development\Proto01\Definitions.Proto01.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Source\Proto01\Proto01Projectile.h
+C:\Users\Warner\Desktop\170Proto\Proto01\Intermediate\Build\Win64\UE4Editor\Inc\Proto01\Proto01Projectile.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

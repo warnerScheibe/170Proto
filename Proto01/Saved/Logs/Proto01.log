@@ -807,3 +807,23 @@ Error: CDO Constructor (Proto01HUD): Failed to find /Game/FirstPerson/Textures/F
 [2020.11.02-02.16.54:216][ 46]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.11.02-02.16.54:216][ 46]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.301ms to complete.
 [2020.11.02-02.16.54:216][ 46]LogFileHelpers: Loading map 'StarterMap' took 0.163
+[2020.11.02-02.29.52:883][524]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/roadProto.roadProto
+[2020.11.02-02.29.52:977][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.11.02-02.29.52:982][524]Cmd: MAP LOAD FILE="../../../../../../Users/Warner/Desktop/170Proto/Proto01/Content/StarterContent/Maps/roadProto.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.02-02.29.52:982][524]LightingResults: New page: Lighting Build
+[2020.11.02-02.29.52:982][524]LoadErrors: New page: Loading map: roadProto.umap
+[2020.11.02-02.29.52:987][524]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-02.29.52:987][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-02.29.52:988][524]MapCheck: New page: Map Check
+[2020.11.02-02.29.52:988][524]LightingResults: New page: Lighting Build
+[2020.11.02-02.29.53:001][524]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A3E270B380), frame # 5524
+[2020.11.02-02.29.53:001][524]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A3D094FE00), frame # 5524
+[2020.11.02-02.29.53:001][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.11.02-02.29.53:012][524]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.02-02.29.53:012][524]LogAIModule: Creating AISystem for world roadProto
+[2020.11.02-02.29.53:012][524]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A3CEC09800), frame # 5524
+[2020.11.02-02.29.53:012][524]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A3E2667240), frame # 5524
+[2020.11.02-02.29.53:027][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.02-02.29.53:069][524]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.02-02.29.53:071][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.242ms to complete.
+[2020.11.02-02.29.53:071][524]LogFileHelpers: Loading map 'roadProto' took 0.090

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Proto01.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DE95819E-9A95-467A-A525-C9F9E94510C1}</UniqueIdentifier>
+      <UniqueIdentifier>{DC0565D6-0DD0-47D6-B73E-086E2A92E2A1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Proto01.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,11 @@
     <None Include="..\..\Source\Proto01Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\MCO_Mocap_Basics.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{613390BD-DD75-4889-A4E3-93D6A7A348AB}</UniqueIdentifier>
+      <UniqueIdentifier>{7A520521-006F-4244-9C9A-38211EC82E62}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -29,8 +32,77 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{4982FE8B-4430-41EC-9000-C607DB9A3257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Auto_Setup_1.1">
+      <UniqueIdentifier>{5E8C87A1-9D5C-4C0D-B993-B78B3364FD24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Auto_Setup_1.1\Source">
+      <UniqueIdentifier>{FC195043-29D9-4493-96B8-B011CE80CA91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\Auto_Setup_1.1\Source\RLPlugin">
+      <UniqueIdentifier>{270C79E9-887A-43DB-815F-1A120C30B6AA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\RLPlugin.Build.cs">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\Auto_Setup_1.1\Source\RLPlugin\Private">
+      <UniqueIdentifier>{4CE45B6D-38C8-4765-B6BA-653B3F09905A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Private\CCFbxFactory.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Private\CCImportUI.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Private\RLShaderData.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Private\RLString.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\Auto_Setup_1.1\Source\RLPlugin\Public">
+      <UniqueIdentifier>{1A7D2648-B343-43D6-8B3E-FA38DBE4D838}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\CCImportWindow.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\RLMaterialData.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\RLPhysicClothData.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\RLPhysicCollisionShapeData.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\RLPlugin.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\RLPluginCommands.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\RLPluginStyle.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\Auto_Setup_1.1\Source\RLPlugin\Public\RLTextureData.h">
+      <Filter>Plugins\Auto_Setup_1.1\Source\RLPlugin\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\Auto_Setup_1.1\RLPlugin.uplugin">
+      <Filter>Plugins\Auto_Setup_1.1</Filter>
+    </None>
+    <Filter Include="Plugins\Auto_Setup_1.1\Resources">
+      <UniqueIdentifier>{46F5E42A-252F-4B1E-AEA5-8A72A8EC9A65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\Auto_Setup_1.1\Resources\ButtonIcon_40x.png">
+      <Filter>Plugins\Auto_Setup_1.1\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\Auto_Setup_1.1\Resources\Icon128.png">
+      <Filter>Plugins\Auto_Setup_1.1\Resources</Filter>
+    </None>
     <Filter Include="Source\Proto01">
-      <UniqueIdentifier>{8301F559-B055-4BFE-BD48-A800338B0AAE}</UniqueIdentifier>
+      <UniqueIdentifier>{0E304BC0-112A-4A11-AD99-3565CE81D6EB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Proto01\Proto01.Build.cs">
       <Filter>Source\Proto01</Filter>

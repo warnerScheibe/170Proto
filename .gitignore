@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# User added ignores
+CachedAssetRegistry.bin
+
 # Compiled Object files
 *.slo
 *.lo

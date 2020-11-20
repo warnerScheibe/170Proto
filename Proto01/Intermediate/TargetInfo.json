@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Proto01",
-			"Path": "C:\\Users\\Warner\\Desktop\\170Proto\\Proto01\\Source\\Proto01.Target.cs",
+			"Path": "D:\\170\\170Proto-005ef2f3d489e1438d4fb5c8042db3bd00ea3bd3\\170Proto\\Proto01\\Source\\Proto01.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Proto01Editor",
-			"Path": "C:\\Users\\Warner\\Desktop\\170Proto\\Proto01\\Source\\Proto01Editor.Target.cs",
+			"Path": "D:\\170\\170Proto-005ef2f3d489e1438d4fb5c8042db3bd00ea3bd3\\170Proto\\Proto01\\Source\\Proto01Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]

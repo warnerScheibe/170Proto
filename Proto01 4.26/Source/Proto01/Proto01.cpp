@@ -3,4 +3,4 @@
 #include "Proto01.h"
 #include "Modules/ModuleManager.h"
 
-//IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Proto01, "Proto01" );
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Proto01, "Proto01" );
